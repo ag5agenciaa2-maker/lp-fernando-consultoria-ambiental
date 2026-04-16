@@ -347,6 +347,7 @@
   <link rel="stylesheet" href="assets/css/lightbox.css">
   <link rel="stylesheet" href="assets/css/slick.min.css">
   <link rel="stylesheet" href="assets/css/framework.css">
+  <link rel="stylesheet" href="cookie-banner.css">
 </head>
 
 <body>
@@ -1290,7 +1291,6 @@
       <div class="col-lg-2 col-md-6 col-12 text-center">
         <h2>Redes Sociais</h2>
         <div class="d-flex social justify-content-center align-items-center">
-          <a target="_blank" href="https://www.youtube.com/channel/UCl8kL6gdsRSt0YfjSC5j0Fg" title="YouTube"><i class="bi-youtube"></i></a>
           <a target="_blank" href="https://www.instagram.com/fernandocesarferreiranetto" title="Instagram"><i class="bi-instagram"></i></a>
           <a target="_blank" href="https://www.facebook.com/fernandocesar.ferreiranetto/" title="Facebook"><i class="bi-facebook"></i></a>
           <a target="_blank" href="https://br.linkedin.com/in/fernando-cesar-ferreira-netto-058095103" title="LinkedIn"><i class="bi-linkedin"></i></a>
@@ -1306,6 +1306,21 @@
     <div class="row">
       <div class="col-12">
         <p class="text-center">Copyright © 2026. Desenvolvido pelo <a href="https://www.opsempresas.com.br" target="_blank">OPS</a> | Todos os direitos reservados.</p>
+        <div class="text-center" style="margin-top:6px;font-size:11px;opacity:0.7;">
+          <a href="/termos-e-condicoes.html" style="text-decoration:none;color:inherit;transition:opacity 0.2s ease;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='1'">Termos e Condições</a>
+          <span style="margin:0 8px;">|</span>
+          <a href="/politica-de-privacidade.html" style="text-decoration:none;color:inherit;transition:opacity 0.2s ease;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='1'">Política de Privacidade</a>
+          <span style="margin:0 8px;">|</span>
+          <a href="#" id="ck-prefs-link" style="text-decoration:none; color:inherit; display:inline-flex; align-items:center; gap:6px;">
+            <span style="display:inline-flex; align-items:center; width:28px; height:14px; background:rgba(0,0,0,0.05); border-radius:10px; padding:2px; border:1px solid rgba(0,0,0,0.1); position:relative; font-size:8px; font-weight:bold;">
+              <span style="color:#22c55e; margin-left:2px;">✓</span>
+              <span style="color:#ef4444; margin-left:auto; margin-right:2px;">✕</span>
+              <span style="position:absolute; left:15px; width:10px; height:10px; background:var(--ck-accent); border-radius:50%; box-shadow:0 0 5px rgba(0,0,0,0.2);"></span>
+            </span>
+            Cookie
+          </a>
+
+        </div>
       </div>
     </div>
   </div>
@@ -1318,14 +1333,81 @@
   </a>
 </div>
 
-<!-- Cookie Bar -->
-<div id="cookie-law-info-bar" style="bottom:0;position:fixed;display:none;padding:16px 24px;background:#333;color:#fff;font-size:13px;z-index:99999;">
-  <b>Política de Privacidade</b><br><br>
-  <span>Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços.
-    <br><br>
-    <a href="#" class="accept_legal_majority" style="padding:4px 10px;background:#fff;color:#333;border-radius:4px;font-weight:600;">OK</a>
-  </span>
+<!-- ========== COOKIE BANNER AG5 ========== -->
+<div id="ck-banner" class="ck-banner" role="dialog" aria-modal="true" aria-label="Aviso de cookies" aria-live="polite" aria-hidden="true">
+    <div class="ck-banner__inner">
+        <div class="ck-banner__content">
+            <h2 class="ck-banner__title">Valorizamos sua privacidade</h2>
+            <p class="ck-banner__text">
+                Utilizamos cookies para aprimorar sua experiência de navegação, exibir conteúdo personalizado e analisar nosso tráfego. 
+                Ao clicar em <strong>"Aceitar todos"</strong>, você concorda com nosso uso de cookies.
+            </p>
+        </div>
+        <div class="ck-banner__actions">
+            <button id="ck-customize" class="ck-btn ck-btn--ghost">Personalizar</button>
+            <button id="ck-reject" class="ck-btn ck-btn--outline">Rejeitar</button>
+            <button id="ck-accept-all" class="ck-btn ck-btn--primary">Aceitar todos</button>
+        </div>
+    </div>
 </div>
+
+<div id="ck-modal" class="ck-modal" role="dialog" aria-modal="true" aria-label="Personalizar preferências de cookies" aria-hidden="true">
+    <div class="ck-modal__overlay" id="ck-modal-overlay"></div>
+    <div class="ck-modal__box">
+        <div class="ck-modal__header">
+            <h2 class="ck-modal__title">Preferências de Cookies</h2>
+            <button class="ck-modal__close" id="ck-modal-close" aria-label="Fechar modal">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                    <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
+            </button>
+        </div>
+        <div class="ck-modal__body">
+            <p class="ck-modal__intro">Este site utiliza cookies para garantir que você obtenha a melhor experiência em nosso site.</p>
+            <div class="ck-category">
+                <div class="ck-category__header">
+                    <div class="ck-category__info">
+                        <h3 class="ck-category__name">Necessário</h3>
+                        <p class="ck-category__desc">Essenciais para o funcionamento do site.</p>
+                    </div>
+                    <span class="ck-category__badge">Sempre ativo</span>
+                </div>
+            </div>
+            <div class="ck-category">
+                <div class="ck-category__header">
+                    <div class="ck-category__info">
+                        <h3 class="ck-category__name">Analítico</h3>
+                        <p class="ck-category__desc">Para entender o tráfego do site.</p>
+                    </div>
+                    <label class="ck-toggle">
+                        <input type="checkbox" id="ck-analytics" name="analytics">
+                        <span class="ck-toggle__slider"></span>
+                    </label>
+                </div>
+            </div>
+            <div class="ck-category">
+                <div class="ck-category__header">
+                    <div class="ck-category__info">
+                        <h3 class="ck-category__name">Publicidade</h3>
+                        <p class="ck-category__desc">Para anúncios personalizados.</p>
+                    </div>
+                    <label class="ck-toggle">
+                        <input type="checkbox" id="ck-advertising" name="advertising">
+                        <span class="ck-toggle__slider"></span>
+                    </label>
+                </div>
+            </div>
+        </div>
+        <div class="ck-modal__footer">
+            <button id="ck-modal-reject" class="ck-btn ck-btn--outline">Rejeitar</button>
+            <button id="ck-modal-save" class="ck-btn ck-btn--ghost">Salvar</button>
+            <button id="ck-modal-accept-all" class="ck-btn ck-btn--primary">Aceitar todos</button>
+        </div>
+    </div>
+</div>
+
+<script src="cookie-banner.js" defer></script>
+
 
 <!-- JavaScript locais -->
 <script src="assets/js/jquery.js"></script>
