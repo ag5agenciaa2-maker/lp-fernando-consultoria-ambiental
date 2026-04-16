@@ -1,0 +1,1324 @@
+<html dir="ltr" lang="pt-br"><head>
+	<title> Fernando Consultoria Ambiental — Licenciamento e Monitoramento Ambiental</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+	<meta name="title" content=" Fernando Consultoria Ambiental — Licenciamento e Monitoramento Ambiental">
+	<meta http-equiv="content-type" content="text/html">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta name="keywords" content="consultoria ambiental, licenciamento ambiental, monitoramento sonoro, recuperação de área, CAR, auditoria ambiental, licenciamento de oficina, licenças ambiental, como conseguir licença ambiental, oficinas, lavadores, ferro velhos, licença ambiental">
+	<meta name="description" content=" Licenciamento ambiental, monitoramento de ruído, recuperação de áreas degradadas, CAR e auditorias. Atuação técnica e personalizada. Solicite orçamento.">
+	<meta http-equiv="content-language" content="pt-br">
+	<meta name="rating" content="global">
+	<meta name="copyright" content="OPS Empresas">
+	<meta http-equiv="imagetoolbar" content="no">
+	<meta name="author" content="OPS Empresas">
+	<meta name="robots" content="all,follow,index,archive,noimageindex,snippet,odp">
+	<meta name="format-detection" content="telephone=no">
+	<link rel="shortcut icon" type="image/x-icon" href="https://www.fernandoconsultoria.com.br//configuracoes-foto/176478979369308e21796a9.webp">
+	<link rel="canonical" href="https://www.fernandoconsultoria.com.br/">
+
+	<!-- Site Sharing Meta Tags -->
+	<meta property="og:title" content=" Fernando Consultoria Ambiental — Licenciamento e Monitoramento Ambiental">
+	<meta property="og:type" content="article">
+	<meta property="og:description" content=" Licenciamento ambiental, monitoramento de ruído, recuperação de áreas degradadas, CAR e auditorias. Atuação técnica e personalizada. Solicite orçamento.">
+	<meta property="og:url" content="https://www.fernandoconsultoria.com.br/">
+		<meta property="og:image" content="https://www.fernandoconsultoria.com.br//configuracoes-foto/1764772308693049d45f2b9.webp">
+	<meta property="og:image:width" content="808">
+	<meta property="og:image:height" content="216">
+	<meta property="og:image:type" content="image/webp">
+	<meta property="og:site_name" content=" Fernando Consultoria Ambiental — Licenciamento e Monitoramento Ambiental">
+	<meta property="twitter:card" content="summary">
+	<meta property="twitter:title" content=" Fernando Consultoria Ambiental — Licenciamento e Monitoramento Ambiental">
+	<meta property="twitter:description" content=" Licenciamento ambiental, monitoramento de ruído, recuperação de áreas degradadas, CAR e auditorias. Atuação técnica e personalizada. Solicite orçamento.">
+	<meta property="twitter:url" content="https://www.fernandoconsultoria.com.br/">
+	<meta property="twitter:image" content="https://www.fernandoconsultoria.com.br//configuracoes-foto/1764772308693049d45f2b9.webp">
+	<meta property="twitter:image:width" content="808">
+	<meta property="twitter:image:height" content="216">
+
+	<!-- CSS | Variáveis -->
+	<style type="text/css">
+		:root {
+			--link-hover: #90D975;--barrinha-do-titulo: #A2C175;--btn-default-fundo: linear-gradient(to left, #A2C175, #349E2B);--btn-default-cor: #FFFFFF;--btn-default-fundo-hover: linear-gradient(to right, #A2C175, #349E2B);--btn-default-cor-hover: #FFFFFF;--btn-secondary-fundo: #297927;--btn-secondary-cor: #FFFFFF;--btn-secondary-fundo-hover: #297927;--btn-secondary-cor-hover: #FFFFFF;--copyright-fundo: #7CBC65;--copyright-cor: #FFFFFF;--paginador-cor: #517A42;--paginador-ativo-fundo: #517A42;--paginador-ativo-cor: #FFFFFF;--navbar-dropdown-fundo: #FFFFFF;--navbar-dropdown-cor: #434343;--navbar-dropdown-fundo-hover: #517A42;--navbar-dropdown-cor-hover: #FFFFFF;--cor-do-titulo: #517A42;--navbar-dropdown-fundo-hover: #517A42;--navbar-dropdown-cor-hover: #FFFFFF;--navbar-dropdown-cor-link-hover: #517A42;		}
+	</style>
+
+	<!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="https://www.fernandoconsultoria.com.br//css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="https://www.fernandoconsultoria.com.br//css/bootstrap-icons.css">
+	<link rel="stylesheet" type="text/css" href="https://www.fernandoconsultoria.com.br//css/lightbox.css">
+	<link rel="stylesheet" type="text/css" href="https://www.fernandoconsultoria.com.br//css/slick.min.css">
+	<link rel="stylesheet" type="text/css" href="https://www.fernandoconsultoria.com.br//css/framework.css">
+
+	<style id="custom-cursor" type="text/css">body button, body [type='button'], body input[type='reset'], body input[type='submit'], body [role="button"], ::-webkit-search-cancel-button, ::-webkit-search-decoration, ::-webkit-scrollbar-button, ::-webkit-file-upload-button, [role^=button], .cc_pointer, [type="search"]::-webkit-search-cancel-button, a, select, [type="search"]::-webkit-search-decoration, .paper-button, .ytp-progress-bar-container, input[type=submit], :link, :visited, a > *, img,  ::-webkit-scrollbar-button, .ogdlpmhglpejoiomcodnpjnfgcpmgale_pointer, ::-webkit-file-upload-button, .ytp-volume-panel, #myogdlpmhglpejoiomcodnpjnfgcpmgale .icon, body .custom-cursor-on-hover {cursor: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAC70lEQVR4AaRTbUhTYRR+7r1uTs2kodmklJaoWJkpmhokw8RE/xTZxx8lMCQkKioK/FEKgf2twD9FX0ayvogohAgSEmqU1bSZHzhTm5tz6NQ53d12e9/rHJt3kqvDPZxzn/ec533uee/LIsAEgLm8b0PDvVOFjiuVqbeqMiHHP1gQKe3PUc2dqc6eiSrT5B6JV8bFUCxcDyYlUmUMHw2bgZE7TXJFTCwTLiGtDyalyLI7LMtZ2HEVUiLZZQ+bbLlhFVLA63LIzCPW5vOapM7D2yKKylMRWVWIKNL415Gw9IQPqpFWtRnKxkYsNRChgoePbqrNP9lcX1xUkJveflSzu7empGLqXLHqbH1R/LG6POWBq0BIUWyMgEv5ydBlqdHedx8JDJFCHznjQtJcJyIGtEiJtsVWqHq3lmfHRmZlJF+/duF4a2115Qt9KneI1q50NmEdTpdmIK5mD3LVidjvLxCoXC8geACHGZx3Aeh/CrX8l2x9Xwu3Q2mPZAWhwF8fkLBOHj8WeQiqODAchzrCJYrlyIcxYhZQLbjFDRgSGev3gIXglPV48GB4CkQSmLwU7PUIUNCSnUlAlIxmQKYKUJCc7kFdRJ1WEmgbCSsedsIOnXUOtolZoCQdLMeQ4fs7IVrmJixtQPC0jSIE8A5fIg2syw3jsA1Gow1QRAA5W+D7BSAxwonE9RJYArCvTJgfmcZzsx3CIhlZslJSEzbA0g5uEY96LXDO8/Tt/10k3T6Gcds83hkn107odAFeAeQkpD0iKbkZ3gUeTwxmeJxrVNszDreMg1ZKCXLSPtQyi0/kwEw9JlGBDw0d6Oz1Y3jdNoCfoSpEpXRh1xAGDRZc7BjEwu9pioR2N7lg2i7YukbRxADk2knr/KR0BG390H4dRd3jzxgbtMJLZiaQGwbqvAfC+Ay8rTron+mhuWPAN6xiflLfupDWj1adEaW3P6Dhxnt8eajD1N2PmLzZgbctHTjxphtlL4fQTepDqiQ4/gAAAP//Krv4awAAAAZJREFUAwDq2QD4Pp6+owAAAABJRU5ErkJggg==") 5 1, pointer !important;} html,body,body select,body .custom-cursor-default-hover {cursor: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAADOElEQVR4AayUa0hTYRjH/+esi0gXTKKMMrJFptkNSgusKKjoXrasTCgopJQgTPogqAh+KAz6EkIp0peUtBIrtTRvJYVkgrNEXXnL6WnT6dzF487O2/tuc+Z9VON53vec5/I7z/7n3fjrm6FO2uP15FzQ3K17gTn4Dx9+lQ9sceHSuZj9y0qVW7yzTiuxknI56n9t/LANxbwsYY+f1vfOed/oY2H+tfHhS+Oi/gHOt/ehqs8CGwcZS+xdXHSw4Jdw1Of+rp0bKyIDFJdUgIKOzFH32HiDiI76TugJcfYoiIhl9hY+ZkuvMiEqJCtMpSy9EDjnwLEV8HZWzL7y803o/tQOncU2vlgh6rHNW83Fhpn3JsadKFAqlxeqArz8adWsU/N5Opi0RtRqfsE1K21zGUfsmC/2cBuGCrxSIlfsO3skpDn5cEB6hBLBKQDvKpu0ORKyjMIGLYgkT8o7Agy+aLCei1ip9roVGXjz5KHdNS2B85JUqqn1dkDNPKo1OgxZJ0jgILoXAs4+jAXdxVxUsLA45dq+5IM+Oxuubl985fh6LHSX0QsHNFQD04AFNT8NNDKrUbihGessb3E5VA5KvHE+Q+nnp45YNzeUtnLUnbpQfciIhLLGHkAmLOyBExm8UAv/gRJFakK0f/iO4PJTqxHIOh2T0guit6JeZ4ZVb6J3Hhg7gpJMyNeWdin1bqbw4aM6bnMHmlnrKBRkBJ3CIPo7qQSsgSWnc/bgggYI994hM60EJ5ta+9fm/7Bn028ssx431Hcpuqimgo5OOt0pkOxAlQZi7FPk59Qh5HYFYnJbUfRSCwuDjbob+rAO0oAVr7WDgEkcTY/tghEk4z1aH9fiTJAGkXka6OhbIbSCOd3GzA2lIXZOX7Dm73p65zLWYbCAPKhG2fMWbMpuxKsU+j5d6Sm3P6EwroGaHq2utj5AlJz1bfQBaW+Qp+lBdGU7hp3Rmddx0MpK2EU7qunfIWEyGMwguZ9RMSTjYk4bhJlRY9lxUBY2iqi2ySB1nUB6OcxfOhDP9GY5T30ilBiH8c1khYXqamrVIepZB+opjElLN89sIhQ2K5rpL6unqRePdBoUeYYZX/UbAAD//x8apVUAAAAGSURBVAMAsrdWep05ZxoAAAAASUVORK5CYII=") 0 0, auto !important;}</style><style>
+  .imageye-selected {
+    outline: 2px solid black !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5) !important;
+  }
+</style></head>
+
+<body cz-shortcut-listen="true">
+	
+	<style type="text/css">
+		:root {
+			--header-fundo: linear-gradient(to left, #7CBC65, #A1C175);--header-cor: #FFFFFF;--navbar-one-fundo: #FFFFFF;--navbar-one-cor: #414449;		}
+	</style>
+	<header class="sticky-top option-one">
+		<div class="header">
+			<div class="container">
+				<div class="row d-none d-lg-flex align-items-center">
+					<div class="col-lg-4 col-12">
+						<div class="social">CRQ ES 212.000.239</div>
+					</div>
+					<div class="col-lg-8 col-12 text-end">
+						<p><a href="tel:5528974007902"><i class="bi-phone"></i> 28 97400-7902</a> |
+<a href="tel:552835115868"><i class="bi-telephone"></i> 28 3511-5868</a> |
+<a href="mailto:fernandocesarnetto@gmail.com"><i class="bi-envelope-fill ms-lg-2"></i></a></p>
+					</div>
+				</div>
+				<div class="row d-lg-none align-items-center">
+					<div class="col-12">
+						<div class="social justify-content-center"> CRQ ES 212.000.239 </div>
+					</div>
+					<div class="col-12">
+						<p class="text-center"> <a href="tel:5528974007902"><i class="bi-phone"></i> 28 97400-7902</a> |
+<a href="tel:552835115868"><i class="bi-telephone"></i> 28 3511-5868</a> |
+<a href="mailto:fernandocesarnetto@gmail.com"><i class="bi-envelope-fill ms-lg-2"></i></a> </p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<nav class="navbar navbar-expand-lg">
+			<div class="container"> <a class="navbar-brand" href="https://www.fernandoconsultoria.com.br//inicio"><img class="brand" src="https://www.fernandoconsultoria.com.br//home-fotos/2/176477279169304bb734d99.webp"></a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"> <i class="bi-list"></i> </button>
+				<div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+					<ul class="navbar-nav">
+															<li class="nav-item" data-toggle="click" data-target="[aria-controls='navbarNavDropdown']"><a class="nav-link" href="/inicio">Início</a></li>
+															<li class="nav-item" data-toggle="click" data-target="[aria-controls='navbarNavDropdown']"><a class="nav-link" href="/#planos">Sobre</a></li>
+															<li class="nav-item" data-toggle="click" data-target="[aria-controls='navbarNavDropdown']"><a class="nav-link" href="/#bloco-one">Serviços</a></li>
+															<li class="nav-item" data-toggle="click" data-target="[aria-controls='navbarNavDropdown']"><a class="nav-link" href="/#bloco-c">Processos</a></li>
+															<li class="nav-item" data-toggle="click" data-target="[aria-controls='navbarNavDropdown']"><a class="nav-link" href="/#faq-2">FAQ</a></li>
+															<li class="nav-item" data-toggle="click" data-target="[aria-controls='navbarNavDropdown']"><a class="nav-link" href="/videos">Vídeos</a></li>
+															<li class="nav-item" data-toggle="click" data-target="[aria-controls='navbarNavDropdown']"><a class="nav-link" href="/#contato-one">Contato</a></li>
+															<li class="nav-item" data-toggle="click" data-target="[aria-controls='navbarNavDropdown']"><a class="nav-link" href="https://wa.me/5528974007902" target="_blank"><span>Solicitar Orçamento</span></a></li>
+											</ul>
+				</div>
+			</div>
+		</nav>
+	</header>
+	<style type="text/css">
+		:root {
+					}
+	</style>
+	<style type="text/css">
+		#painel .fullscreen .carousel-item img {
+			height: calc(100vh - 132.5px);
+			object-fit: cover;
+		}
+
+		#painel .fullscreen .carousel-item .carousel-caption {
+			top: 0;
+			left: 0;
+			bottom: 0;
+			right: 0;
+			width: 100%;
+			height: 100%;
+			background: radial-gradient(rgba(0, 0, 0, .43), rgba(0, 0, 0, .63));
+			padding: 1rem;
+		}
+
+		#painel .fullscreen .carousel-item .carousel-caption h1 {
+			font-size: 32px;
+			letter-spacing: 1px;
+			color: #FFF;padding-bottom: 0.4rem;
+		}
+		#painel .fullscreen .carousel-item .carousel-caption h1 b {font-family: 'titulo';}
+		#painel .fullscreen .carousel-item .carousel-caption h2 {
+			font-size: 16px;
+			text-transform: inherit;
+			padding-bottom:0.4rem;
+			color: #FFF; font-weight: 300;
+		}
+
+		#painel .fullscreen .carousel-item .carousel-caption p {
+			color: #FFF;	padding-bottom:0.4rem; font-size: 14px;
+		}
+		#painel .fullscreen .carousel-item .carousel-caption .btn.default {font-size: 12px;}
+		@media screen and (max-width: 767px) {
+
+			#painel .fullscreen .carousel-item .carousel-caption h1 {
+				font-size: 22px;
+			}
+
+			#painel .fullscreen .carousel-item .carousel-caption h2 {
+				font-size: 14px;
+			}
+
+			#painel .fullscreen .carousel-item .carousel-caption p {
+				font-size: 12px;
+			}
+		}
+	</style>
+	<section id="painel">
+		<div id="carousel-painel" class="carousel slide fullscreen carousel-fade" data-bs-ride="carousel">
+			<div class="carousel-inner">
+										<div class="carousel-item active">
+							<img src="https://www.fernandoconsultoria.com.br//painel-fotos/1/17647744766930524c2bda7.webp" alt="&lt;b&gt;Fernando&lt;/b&gt;&lt;/br&gt; &lt;b&gt;Consultoria ambiental&lt;/b&gt; completa para garantir conformidade, prevenção e sustentabilidade">
+							<div class="carousel-caption d-flex align-items-center">
+								<div class="container">
+									<div class="row justify-content-lg-start justify-content-center">
+										<div class="col-lg-5 col-12">
+											<h1 class="text-center text-lg-start"><b>Fernando</b><br> <b>Consultoria ambiental</b> completa para garantir conformidade, prevenção e sustentabilidade</h1>
+											<h2 class="text-center text-lg-start">Licenciamento, monitoramento, auditoria e projetos ambientais com responsabilidade técnica. </h2>
+											<p class="text-center text-lg-start">Atendemos indústrias, comércios, obras e loteamentos.</p>
+											<div class="d-lg-flex justify-content-lg-start justify-content-center mt-3">
+												<a href="https://wa.me/5528974007902" target="_blank" class="btn default w-100 mb-lg-0 mb-2 me-2">
+													<div class="front">Solicitar Orçamento</div>
+													<div class="back">Solicitar Orçamento</div>
+												</a>
+
+												<a href="https://www.fernandoconsultoria.com.br//inicio#bloco-one" class="btn default w-100">
+													<div class="front">Nossos Serviços</div>
+													<div class="back">Nossos Serviços</div>
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+							</div>
+			<!--<button class="carousel-control-prev" type="button" data-bs-target="#carousel-painel" data-bs-slide="prev">
+				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+				<span class="visually-hidden">Anterior</span>
+			</button>
+			<button class="carousel-control-next" type="button" data-bs-target="#carousel-painel" data-bs-slide="next">
+				<span class="carousel-control-next-icon" aria-hidden="true"></span>
+				<span class="visually-hidden"> próximo</span>
+			</button>-->
+		</div>
+	</section>
+<style type="text/css">
+		:root {
+			--planos-fundo: #FFFFFF;--planos-cor: #383838;		}
+	</style>
+	<style type="text/css">
+		#OPS4 {
+			background: var(--planos-fundo);
+			color: var(--planos-cor);
+		}
+
+		#OPS4 img {
+			height: 300px;
+			object-fit:contain;
+			border-radius: 0px;
+		}
+		/*#OPS4 .titulo {color: var(--planos-cor);}*/
+		#OPS4 .box {
+			padding: 30px;
+		}
+		#OPS4 .box p {line-height: 1.7;font-size: 14px;text-align: justify;}
+	</style>
+	<section id="OPS4" class="anchor-holder pb-0 section">
+		<div class="anchor" id="planos"></div>
+		<div class="container">
+
+			<div class="row text-lg-start text-center justify-content-center align-items-center">
+				<div class="col-lg-6 col-12 mb-4 mb-lg-0 order-lg-last">
+					<img src="https://www.fernandoconsultoria.com.br//home-fotos/4/1764774911693053ffa737a.webp" alt="Imagem JPG, Indisponível">
+				</div>
+				<div class="col-lg-6 col-12">
+					<div class="box">
+						<h1 class="titulo text-lg-start mb-4">Quem somos</h1>
+						<p>A Fernando Consultoria Ambiental é formada por profissionais experientes em meio ambiente, engenharia e segurança do trabalho.  <br>
+Atuamos para consolidar a política nacional de meio ambiente por meio de licenciamento, monitoramento, projetos de recuperação e educação ambiental.  <br>
+Nosso compromisso é proteger a qualidade ambiental e reduzir riscos legais e operacionais das atividades que geram impacto.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+<style type="text/css">
+		:root {
+			--diferencial-caixa-fundo: linear-gradient(to left, #82B46F, #A1C175);--diferencial-caixa-cor: #FFFFFF;--diferencial-caixa-icone: #9FFD9C;		}
+	</style>
+	<style type="text/css">
+		#OPS3 .box {
+			border-radius: 10px;
+			background: var(--diferencial-caixa-fundo);
+			box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .15);
+			color: var(--diferencial-caixa-cor);
+			height: 100%;
+			padding: 2rem 1rem;
+		}
+
+		#OPS3 .box i {
+			color: var(--diferencial-caixa-icone);
+			font-size: 35px;
+		}
+
+		#OPS3 .box h2 {
+			font-weight: 600; padding-bottom: 0.3rem; font-size: 16px; font-family: 'titulo';
+		}
+		#OPS3 .box p {
+			font-size: 14px;
+		}
+	</style>
+	<section id="OPS3" class="section anchor-holder">
+	<div class="anchor" id="bloco-a"></div>
+		<div class="container">
+			<div class="row justify-content-center">
+
+				<div class="col-12 text-center mb-4">
+					<h1 class="titulo"></h1>
+				</div>
+
+				<div class="col-lg-4 col-sm-6 col-12 mb-4 mb-lg-0">
+					<div class="box text-lg-start text-center">
+						<h2></h2>
+						<h2>Missão</h2>
+						<p>Promover soluções técnicas e estratégicas que assegurem conformidade ambiental e desenvolvimento sustentável.</p>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 col-12 mb-4 mb-lg-0">
+					<div class="box text-lg-start text-center">
+						<h2></h2>
+						<h2>Visão</h2>
+						<p>Ser referência regional em consultoria ambiental integrada.</p>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 col-12">
+					<div class="box text-lg-start text-center">
+						<h2></h2>
+						<h2>Valores</h2>
+						<p>Ética técnica, transparência, segurança, compromisso com a sustentabilidade.
+</p>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</section>
+<style type="text/css">
+		:root {
+			--icones-fundo: linear-gradient(45deg, #FFFFFF, #FFFFFF);--icones-cor: #404040;		}
+	</style>
+	<style type="text/css">
+		#OPS5 {
+			background: var(--icones-fundo);
+			color: var(--icones-cor);
+		}
+		/*#OPS5  .titulo {color: var(--icones-cor);}*/
+		#OPS5  .titulo p {font-family: 'texto'; font-weight: 400; color: #888;}
+		#OPS5 .conteudo  {padding: 20px;  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .15); border-radius: 10px; height: 380px;border: solid 2px #7CBC65;}
+		#OPS5 .conteudo img {height: 100px; object-fit:contain;padding: 10px;}
+
+		#OPS5 .conteudo h3 {
+			font-size: 14px;
+		}
+		#OPS5 .conteudo h3  b {font-family: 'titulo'; color: #7CBC65;}
+		#OPS5 .slick-slider .slick-slide {	margin: 5px 15px;}
+	</style>
+	<section id="OPS5" class="section anchor-holder">
+	<div class="anchor" id="bloco-one"></div>
+		<div class="container">
+			
+				<div class="row justify-content-center">
+					<div class="col-12">
+						<h1 class="titulo mb-4">Serviços que oferecemos 
+<br>
+<p class="text-center mt-2">Soluções completas — da avaliação inicial ao licenciamento e monitoramento contínuo. </p></h1>
+					</div>
+
+					<div class="col-12">
+						<div class="row">
+							<div class="slick-servicos slick-initialized slick-slider"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: block;"><i class="bi bi-chevron-left"></i></button>
+								
+								
+																
+																
+																	
+																	
+																	
+																	
+																
+								
+								
+								
+								
+
+							<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 8802px; transform: translate3d(-652px, 0px, 0px);"><div class="col-lg-3 col-sm-6 col-12 slick-slide slick-cloned" tabindex="-1" style="width: 296px;" data-slick-index="-1" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//images/webp/5.webp" alt="Imagem PNG, Ícone 04" class="mb-2">
+										<h3><b>Serviços específicos (oficinas, postos, serrarias, marmoraria, ferro-velho, etc.)</b><br><br>
+										Licenciamento e gestão ambiental para segmentos de maior impacto: oficinas mecânicas, lanternagem e pintura, lavadores de carro, ferro-velho, serralheria, serraria, marmoraria, postos de combustível e aterros sanitários.
+										</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 mb-4 mb-lg-0 slick-slide" tabindex="-1" style="width: 296px;" data-slick-index="0" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/176478576469307e64094ba.png" alt="Imagem PNG, Ícone 01" class="mb-2">
+										<h3><b>Licenciamento Ambiental (LP, LI, LO)</b><br><br>
+Conduzimos todo o processo de licenciamento ambiental para atividades e obras, incluindo levantamento técnico, elaboração de estudos ambientais e acompanhamento junto aos órgãos competentes.
+</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 mb-4 mb-lg-0 slick-slide slick-current slick-active" tabindex="0" style="width: 296px;" data-slick-index="1" aria-hidden="false">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/176478576469307e640a9e6.png" alt="Imagem PNG, Ícone 02" class="mb-2">
+										<h3><b>Monitoramento Ambiental</b><br><br>
+Monitoramos parâmetros de qualidade do ar, água e níveis sonoros, gerando laudos e relatórios técnicos para atendimento de exigências legais.</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 mb-sm-0 slick-slide" tabindex="-1" style="width: 296px;" data-slick-index="2" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/176478576469307e640b429.png" alt="Imagem PNG, Ícone 03" class="mb-2">
+										<h3><b>Laudos e Estudos Técnicos</b><br><br>
+Emissão de laudos técnicos (sonoro, movimentação de solo, hidrogeológico etc.) e estudos ambientais (RIMA, EIA, RAP).</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 slick-slide" tabindex="-1" style="width: 296px;" data-slick-index="3" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/176478590469307ef0ba8b0.png" alt="Imagem PNG, Ícone 04" class="mb-2">
+										<h3><b>Auditoria Ambiental</b><br><br>
+Auditorias de conformidade ambiental e due diligence para compra, venda ou regularização de empreendimentos.
+</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 mb-4 mb-lg-0 slick-slide" tabindex="-1" style="width: 296px;" data-slick-index="4" aria-hidden="true">
+										<div class="conteudo text-center">
+											<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/176478590469307ef0bafaf.png" alt="Imagem PNG, Ícone 01" class="mb-2">
+											<h3><b>Recuperação de Áreas Degradadas (Reflorestamento/Recuperação)</b><br><br>
+Projetos de restauração ecológica, seleção de espécies e acompanhamento técnico de reflorestamento e recuperação.
+</h3>
+										</div>
+									</div><div class="col-lg-3 col-sm-6 col-12 mb-4 mb-lg-0 slick-slide" tabindex="-1" style="width: 296px;" data-slick-index="5" aria-hidden="true">
+										<div class="conteudo text-center">
+											<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/1764786969693083198e2d6.png" alt="Imagem PNG, Ícone 02" class="mb-2">
+											<h3><b>Cadastro Ambiental Rural (CAR) e Regularização Fundiária</b><br><br>
+Elaboração e acompanhamento do CAR, além de assessoria para regularização fundiária com foco ambiental.
+</h3>
+										</div>
+									</div><div class="col-lg-3 col-sm-6 col-12 mb-sm-0 slick-slide" tabindex="-1" style="width: 296px;" data-slick-index="6" aria-hidden="true">
+										<div class="conteudo text-center">
+											<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/17647869696930831997f7c.png" alt="Imagem PNG, Ícone 03" class="mb-2">
+											<h3><b>Fossa Séptica e Gestão de Efluentes</b><br><br>
+Projetos e laudos para sistemas de tratamento e disposição de efluentes domésticos e industriais.</h3>
+										</div>
+									</div><div class="col-lg-3 col-sm-6 col-12 slick-slide" tabindex="-1" style="width: 296px;" data-slick-index="7" aria-hidden="true">
+										<div class="conteudo text-center">
+											<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/176478957869308d4acf9e6.png" alt="Imagem PNG, Ícone 04" class="mb-2">
+											<h3><b>Controle de Ruído (Monitoramento de Níveis Sonoros)</b><br><br>
+Medições e laudos de ruído para indústrias, comércios e eventos, elaboração de plano de controle acústico.
+</h3>
+										</div>
+									</div><div class="col-lg-3 col-sm-6 col-12 slick-slide" tabindex="-1" style="width: 296px;" data-slick-index="8" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//images/webp/1.webp" alt="Imagem PNG, Ícone 04" class="mb-2">
+										<h3><b>Projetos de Jardinagem, Podas e Manejo Arbóreo</b><br><br>
+										Laudos e projetos para podas, supressão e manejo de árvores, com acompanhamento técnico e mitigação.
+										</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 slick-slide" tabindex="-1" style="width: 296px;" data-slick-index="9" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//images/webp/2.webp" alt="Imagem PNG, Ícone 04" class="mb-2">
+										<h3><b>Projetos Urbanísticos e Loteamentos</b><br><br>
+										Estudos ambientais para loteamentos, implantação de infraestrutura e recuperação de áreas impactadas.
+										</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 slick-slide" tabindex="-1" style="width: 296px;" data-slick-index="10" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//images/webp/3.webp" alt="Imagem PNG, Ícone 04" class="mb-2">
+										<h3><b>Segurança do Trabalho</b><br><br>
+										Integração entre práticas de segurança do trabalho e requisitos ambientais para redução de riscos ocupacionais e ambientais.
+										</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 slick-slide" tabindex="-1" style="width: 296px;" data-slick-index="11" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//images/webp/4.webp" alt="Imagem PNG, Ícone 04" class="mb-2">
+										<h3><b>Palestras e Educação Ambiental</b><br><br>
+										Programas, cursos e palestras personalizadas para empresas, escolas e comunidades sobre boas práticas e conformidade.
+										</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 slick-slide" tabindex="-1" style="width: 296px;" data-slick-index="12" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//images/webp/5.webp" alt="Imagem PNG, Ícone 04" class="mb-2">
+										<h3><b>Serviços específicos (oficinas, postos, serrarias, marmoraria, ferro-velho, etc.)</b><br><br>
+										Licenciamento e gestão ambiental para segmentos de maior impacto: oficinas mecânicas, lanternagem e pintura, lavadores de carro, ferro-velho, serralheria, serraria, marmoraria, postos de combustível e aterros sanitários.
+										</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 mb-4 mb-lg-0 slick-slide slick-cloned" tabindex="-1" style="width: 296px;" data-slick-index="13" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/176478576469307e64094ba.png" alt="Imagem PNG, Ícone 01" class="mb-2">
+										<h3><b>Licenciamento Ambiental (LP, LI, LO)</b><br><br>
+Conduzimos todo o processo de licenciamento ambiental para atividades e obras, incluindo levantamento técnico, elaboração de estudos ambientais e acompanhamento junto aos órgãos competentes.
+</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 mb-4 mb-lg-0 slick-slide slick-cloned" tabindex="-1" style="width: 296px;" data-slick-index="14" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/176478576469307e640a9e6.png" alt="Imagem PNG, Ícone 02" class="mb-2">
+										<h3><b>Monitoramento Ambiental</b><br><br>
+Monitoramos parâmetros de qualidade do ar, água e níveis sonoros, gerando laudos e relatórios técnicos para atendimento de exigências legais.</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 mb-sm-0 slick-slide slick-cloned" tabindex="-1" style="width: 296px;" data-slick-index="15" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/176478576469307e640b429.png" alt="Imagem PNG, Ícone 03" class="mb-2">
+										<h3><b>Laudos e Estudos Técnicos</b><br><br>
+Emissão de laudos técnicos (sonoro, movimentação de solo, hidrogeológico etc.) e estudos ambientais (RIMA, EIA, RAP).</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 slick-slide slick-cloned" tabindex="-1" style="width: 296px;" data-slick-index="16" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/176478590469307ef0ba8b0.png" alt="Imagem PNG, Ícone 04" class="mb-2">
+										<h3><b>Auditoria Ambiental</b><br><br>
+Auditorias de conformidade ambiental e due diligence para compra, venda ou regularização de empreendimentos.
+</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 mb-4 mb-lg-0 slick-slide slick-cloned" tabindex="-1" style="width: 296px;" data-slick-index="17" aria-hidden="true">
+										<div class="conteudo text-center">
+											<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/176478590469307ef0bafaf.png" alt="Imagem PNG, Ícone 01" class="mb-2">
+											<h3><b>Recuperação de Áreas Degradadas (Reflorestamento/Recuperação)</b><br><br>
+Projetos de restauração ecológica, seleção de espécies e acompanhamento técnico de reflorestamento e recuperação.
+</h3>
+										</div>
+									</div><div class="col-lg-3 col-sm-6 col-12 mb-4 mb-lg-0 slick-slide slick-cloned" tabindex="-1" style="width: 296px;" data-slick-index="18" aria-hidden="true">
+										<div class="conteudo text-center">
+											<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/1764786969693083198e2d6.png" alt="Imagem PNG, Ícone 02" class="mb-2">
+											<h3><b>Cadastro Ambiental Rural (CAR) e Regularização Fundiária</b><br><br>
+Elaboração e acompanhamento do CAR, além de assessoria para regularização fundiária com foco ambiental.
+</h3>
+										</div>
+									</div><div class="col-lg-3 col-sm-6 col-12 mb-sm-0 slick-slide slick-cloned" tabindex="-1" style="width: 296px;" data-slick-index="19" aria-hidden="true">
+										<div class="conteudo text-center">
+											<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/17647869696930831997f7c.png" alt="Imagem PNG, Ícone 03" class="mb-2">
+											<h3><b>Fossa Séptica e Gestão de Efluentes</b><br><br>
+Projetos e laudos para sistemas de tratamento e disposição de efluentes domésticos e industriais.</h3>
+										</div>
+									</div><div class="col-lg-3 col-sm-6 col-12 slick-slide slick-cloned" tabindex="-1" style="width: 296px;" data-slick-index="20" aria-hidden="true">
+										<div class="conteudo text-center">
+											<img src="https://www.fernandoconsultoria.com.br//home-fotos/5/176478957869308d4acf9e6.png" alt="Imagem PNG, Ícone 04" class="mb-2">
+											<h3><b>Controle de Ruído (Monitoramento de Níveis Sonoros)</b><br><br>
+Medições e laudos de ruído para indústrias, comércios e eventos, elaboração de plano de controle acústico.
+</h3>
+										</div>
+									</div><div class="col-lg-3 col-sm-6 col-12 slick-slide slick-cloned" tabindex="-1" style="width: 296px;" data-slick-index="21" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//images/webp/1.webp" alt="Imagem PNG, Ícone 04" class="mb-2">
+										<h3><b>Projetos de Jardinagem, Podas e Manejo Arbóreo</b><br><br>
+										Laudos e projetos para podas, supressão e manejo de árvores, com acompanhamento técnico e mitigação.
+										</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 slick-slide slick-cloned" tabindex="-1" style="width: 296px;" data-slick-index="22" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//images/webp/2.webp" alt="Imagem PNG, Ícone 04" class="mb-2">
+										<h3><b>Projetos Urbanísticos e Loteamentos</b><br><br>
+										Estudos ambientais para loteamentos, implantação de infraestrutura e recuperação de áreas impactadas.
+										</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 slick-slide slick-cloned" tabindex="-1" style="width: 296px;" data-slick-index="23" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//images/webp/3.webp" alt="Imagem PNG, Ícone 04" class="mb-2">
+										<h3><b>Segurança do Trabalho</b><br><br>
+										Integração entre práticas de segurança do trabalho e requisitos ambientais para redução de riscos ocupacionais e ambientais.
+										</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 slick-slide slick-cloned" tabindex="-1" style="width: 296px;" data-slick-index="24" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//images/webp/4.webp" alt="Imagem PNG, Ícone 04" class="mb-2">
+										<h3><b>Palestras e Educação Ambiental</b><br><br>
+										Programas, cursos e palestras personalizadas para empresas, escolas e comunidades sobre boas práticas e conformidade.
+										</h3>
+									</div>
+								</div><div class="col-lg-3 col-sm-6 col-12 slick-slide slick-cloned" tabindex="-1" style="width: 296px;" data-slick-index="25" aria-hidden="true">
+									<div class="conteudo text-center">
+										<img src="https://www.fernandoconsultoria.com.br//images/webp/5.webp" alt="Imagem PNG, Ícone 04" class="mb-2">
+										<h3><b>Serviços específicos (oficinas, postos, serrarias, marmoraria, ferro-velho, etc.)</b><br><br>
+										Licenciamento e gestão ambiental para segmentos de maior impacto: oficinas mecânicas, lanternagem e pintura, lavadores de carro, ferro-velho, serralheria, serraria, marmoraria, postos de combustível e aterros sanitários.
+										</h3>
+									</div>
+								</div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: block;"><i class="bi bi-chevron-right"></i></button></div>
+						</div>
+					</div>
+					
+				</div>
+		
+		</div>
+	</section>
+<style type="text/css">
+		:root {
+			--d-fundo: #F2F2F2;--d-cor: #333333;		}
+	</style>
+	<style type="text/css">
+		#OPS7 {
+			background: var(--d-fundo);
+			color: var(--d-cor);
+		}
+
+		#OPS7 img {
+			height: 400px;
+			object-fit: cover;
+			border-radius: 10px;
+		}
+
+		#OPS7 .box {
+			padding: 30px;
+		}
+		#OPS7 .box p {text-align: justify; font-size: 14px; line-height: 1.6;}
+		#OPS7 .titulo {
+			color: var(--d-cor);
+		}
+	</style>
+	<section id="OPS7" class="section anchor-holder">
+	<div class="anchor" id="bloco-d"></div>
+		<div class="container">
+			<div class="row justify-content-center align-items-center">
+				<div class="col-lg-4 col-12 mb-4 mb-lg-0">
+					<img src="https://www.fernandoconsultoria.com.br//home-fotos/7/176478389769307719dba20.jpeg" alt="Imagem JPG, Indisponível">
+				</div>
+				<div class="col-lg-6 col-12">
+					<div class="box">
+						<h1 class="titulo text-lg-start mb-4">Quem sou eu</h1>
+						<p></p><p style="text-align: justify;">Nossa atuação tem como propósito fortalecer e consolidar a Política Nacional do Meio Ambiente, garantindo que atividades, obras e empreendimentos sigam padrões responsáveis e sustentáveis.</p>
+<p style="text-align: justify;">Entre nossas principais atribuições, destacam-se:</p>
+<p style="text-align: justify;">- <strong>Licenciar e monitorar</strong> processos, obras e atividades que possam causar impactos ou risco de degradação ambiental.</p>
+<p style="text-align: justify;">- <strong>Desenvolver e incentivar</strong> estudos e pesquisas de caráter científico, tecnológico, cultural e educativo, visando ampliar o conhecimento e promover a consciência ambiental.</p>
+<p style="text-align: justify;">- <strong>Conceder licenciamento</strong> ambiental para diferentes tipos de atividades e empreendimentos.</p>
+<p style="text-align: justify;">- <strong>Monitorar níveis sonoros</strong> em qualquer tipo de estabelecimento, assegurando o cumprimento das normas ambientais e de bem-estar.</p><p></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+<style type="text/css">
+		:root {
+					}
+	</style>
+	<style type="text/css">
+		#OPS8 p {
+			font-size: 14px; text-align: justify; line-height: 1.7;
+		}
+		#OPS8 h2 {
+			font-size: 18px;
+			color: #787878; padding-bottom: 5px;
+			font-weight: 400;
+		}
+		#OPS8 p i {color: #78bc65; font-size:16px;}
+		#OPS8 .text {padding: 20px;}
+		#OPS8 img {
+			max-height: 550px; border-radius: 0px;
+			object-fit: contain;
+		}
+
+		@media screen and (min-width: 992px) {
+			#OPS8 .titulo {
+				text-align: center;
+			}
+
+			#OPS8 h2 {
+				text-align: center;
+		}
+			#OPS8 .titulo span::before {
+				left: 0;
+				transform: unset;
+			}
+		}
+
+		@media screen and (max-width: 991px) {
+			#OPS8 h2 {
+				text-align: center;
+			}
+
+			#OPS8 img {
+				height: auto;
+				max-height: 350px;
+			}
+		}
+	</style>
+
+	<section id="OPS8" class="section anchor-holder">
+	<div class="anchor" id="bloco-botao"></div>
+		<div class="container">
+			<div class="row text-lg-start text-center">
+				<div class="col-12">
+					<h1 class="titulo mb-3">Licenças ambientais por atividade</h1>
+				</div>
+				<div class="col-lg-4 col-12 mb-4 mb-lg-0">
+				
+					<img src="https://www.fernandoconsultoria.com.br//home-fotos/8/1764783557693075c540aec.webp" alt="Imagem JPG, Indisponível">
+				</div>
+				<div class="col-lg-8 col-12">
+					<div class="text">
+					<h2></h2>
+					
+					<p class="mb-3">Emitimos e acompanhamos todos os tipos de licenças, com atuação técnica em processos, obras e empreendimentos:<br>
+
+<b><i class="bi bi-check-circle"></i> Oficinas mecânicas / Lanternagem e pintura / Lavadores de carro:</b> Gestão de resíduos perigosos, controle de efluentes, contenção e destino de óleos e solventes; licenciamento e condicionantes. <br>
+
+<b><i class="bi bi-check-circle"></i> Ferro-velho:</b> Controle de material reciclável, prevenção de contaminação do solo e água, plano de gestão de resíduos. <br>
+
+<b><i class="bi bi-check-circle"></i> Loteadoras / Loteamentos:</b> Estudos de viabilidade ambiental, planos de compensação e condicionantes para aprovação municipal/estadual. <br>
+
+<b><i class="bi bi-check-circle"></i> Reflorestamento / Recuperação de Área Degradada:</b> Projetos técnicos, seleção de espécies nativas, acompanhamento e relatórios de sucesso. <br>
+
+<b><i class="bi bi-check-circle"></i> Jardinagem / Podas de árvores:</b> Laudos de supressão, autorizações e projetos de recomposição vegetal.<br>
+
+<b><i class="bi bi-check-circle"></i> Serralheria / Serraria / Marmoraria:</b> Controle de ruído, gestão de resíduos, efluentes e licenciamento específico.<br>
+
+<b><i class="bi bi-check-circle"></i> Posto de combustível:</b> Plano de emergência, licenciamento ambiental, controle de solo e águas subterrâneas.<br>
+
+<b><i class="bi bi-check-circle"></i> Aterro sanitário:</b> Estudos técnicos, controle de gases, lixiviados e monitoramento exigido por órgãos ambientais.<br>
+
+<b><i class="bi bi-check-circle"></i> Fossa séptica:</b> Projetos, relatórios e recomendações para implantação e manutenção.<br>
+
+<b><i class="bi bi-check-circle"></i> CAR / Regularização fundiária:</b> Diagnóstico, georreferenciamento e adequação ambiental.</p>
+					<div class="d-flex justify-content-center justify-content-lg-start mt-4">
+						<a href="https://wa.me/5528974007902" class="btn default">
+							<div class="front">Agendar Visita Técnica
+</div>
+							<div class="back">Agendar Visita Técnica
+</div>
+						</a>
+					</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+<style type="text/css">
+		:root {
+			--acomodacoes-fundo: #FFFFFF;--acomodacoes-cor: #A2C175;--acomodacoes-quadrado: #A2C175;		}
+	</style>
+	<style type="text/css">
+		#OPS13 {
+			background: var(--acomodacoes-fundo);
+			color: var(--acomodacoes-cor);
+		}
+		#OPS13 .titulo {color: var(--acomodacoes-cor);}
+		#OPS13 .box {
+			box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .1);
+			position: relative;
+			z-index: 0;
+		}
+
+		#OPS13 .box::before {
+			content: '';
+			position: absolute;
+			top: -20px;
+			left: 50%;
+			transform: translateX(-50%);
+			width: 70%;
+			height: calc(100% + 40px);
+			/*border: 1px solid var(--acomodacoes-quadrado);*/
+			z-index: -1;
+		}
+
+		#OPS13 .box img {
+			height: 340px;
+			object-fit: cover;
+		}
+
+		#OPS13 .box .overlay {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background: linear-gradient(rgba(0, 0, 0, .15), rgba(0, 0, 0, .65));
+			padding: 5px 15px;
+		}
+
+		#OPS13 .box .overlay h2 {
+			font-weight: 600; font-size: 18px;
+			text-transform: uppercase;
+			color: #FFF;
+		}
+	</style>
+	<section id="OPS13" class="section anchor-holder">
+	<div class="anchor" id="bloco-four"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-12 mb-4">
+					<h1 class="titulo">GALERIA DE FOTOS</h1>
+				</div>
+								<div class="col-lg-3 col-md-6 col-12 px-1 mb-lg-0 mb-4">
+					<a href="/galeria/1/servicos-realizados" class="box d-flex">
+						<img src="https://www.fernandoconsultoria.com.br//home-fotos/13/17648783116931e7e7b84f1.jpeg">
+						<div class="overlay d-flex align-items-end">
+							<div class="text">
+								<h2></h2>
+							</div>
+						</div>
+					</a>
+				</div>
+								<div class="col-lg-3 col-md-6 col-12 px-1 mb-lg-0 mb-4">
+					<a href="/galeria/1/servicos-realizados" class="box d-flex">
+						<img src="https://www.fernandoconsultoria.com.br//home-fotos/13/17648783116931e7e7b8a9a.jpeg">
+						<div class="overlay d-flex align-items-end">
+							<div class="text">
+								<h2></h2>
+							</div>
+						</div>
+					</a>
+				</div>
+								<div class="col-lg-3 col-md-6 col-12 px-1 mb-lg-0 mb-4">
+					<a href="/galeria/1/servicos-realizados" class="box d-flex">
+						<img src="https://www.fernandoconsultoria.com.br//home-fotos/13/17648783116931e7e7b90e8.jpeg">
+						<div class="overlay d-flex align-items-end">
+							<div class="text">
+								<h2></h2>
+							</div>
+						</div>
+					</a>
+				</div>
+								<div class="col-lg-3 col-md-6 col-12 px-1 mb-lg-0 mb-4">
+					<a href="/galeria/1/servicos-realizados" class="box d-flex">
+						<img src="https://www.fernandoconsultoria.com.br//home-fotos/13/17648783116931e7e7b9615.jpeg">
+						<div class="overlay d-flex align-items-end">
+							<div class="text">
+								<h2></h2>
+							</div>
+						</div>
+					</a>
+				</div>
+								<div class="col-12 mt-5">
+					<div class="d-flex justify-content-center">
+						<a href="/galeria/1/servicos-realizados" class="btn default">
+							<div class="front">VER MAIS</div>
+							<div class="back">VER MAIS</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+<style type="text/css">
+	:root {
+		--ops36-fundo: #65B157;--ops36-titulo: #FFFFFF;--ops36-borda: #FFFFFF;--ops36-seta: #C5FFAE;--ops36-fundoleitura: #FFFFFF;--fonteleitura: #FFFFFF;--ops36-subtitulo: #FFFFFF;	}
+</style>
+<style type="text/css">
+	#OPS11 {
+		background: var(--ops36-fundo);
+	}
+
+	#OPS11 .titulo {
+		margin-bottom: 0.75rem;
+		color: var(--ops36-titulo);
+	}
+
+	#OPS11 .subtitulo {
+		margin-bottom: 1.75rem;
+		color: var(--ops36-subtitulo);
+		text-align: center;
+	}
+
+	#OPS11 .accordion-item:not(:last-child) {
+		margin-bottom: 1rem;
+	}
+
+	/*#OPS11 .accordion-item {
+		border: 1px solid var(--ops36-borda);
+	}*/
+
+	#OPS11 .accordion-item .accordion-header {
+		border-bottom: 1px solid var(--ops36-borda);
+		cursor: pointer; border-radius: 10px;
+		padding:1rem;  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .15);
+		background: var(--ops36-fundo);
+	}
+
+	#OPS11 .accordion-item .accordion-header h2 {
+		font-size: 16px;
+		margin-bottom: 0;
+		color: var(--ops36-subtitulo);
+		padding-left: 0.5rem;
+		padding-right: 0.5rem;
+		font-weight: 400;
+	}
+
+	#OPS11 .accordion-item .accordion-header .symbol {
+		width: 17px;
+		height: 17px;
+		position: relative;
+	}
+
+	#OPS11 .accordion-item .accordion-header .symbol::before,
+	#OPS11 .accordion-item .accordion-header .symbol::after {
+		content: '';
+		position: absolute;
+		background: var(--ops36-seta);
+	}
+
+	#OPS11 .accordion-item .accordion-header .symbol::before {
+		width: 100%;
+		height: 3px;
+		border-radius: 5px;
+		top: 50%;
+		left: 0;
+		transform: translateY(-50%);
+	}
+
+	#OPS11 .accordion-item .accordion-header .symbol::after {
+		width: 3px;
+		height: 100%;
+		border-radius: 5px;
+		top: 0;
+		left: 50%;
+		transform: translateX(-50%);
+		transition: .4s ease-in-out;
+	}
+
+	#OPS11 .accordion-item .accordion-header[aria-expanded="true"] .symbol::after {
+		opacity: 0;
+	}
+
+	#OPS11 .accordion-item .accordion-body {
+		background: var(--ops36-fundoleitura);
+		color: var(--ops36-fonteleitura);
+		padding: 0.5rem;
+	}
+</style>
+<section id="OPS11" class="section anchor-holder">
+<div class="anchor" id="faq-2"></div>
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-12">
+				<h1 class="titulo">FAQ <br> Perguntas frequentes</h1>
+				<h2 class="subtitulo"></h2>
+			</div>
+			<div class="col-lg-8 col-12">
+				<div class="accordion-item" type="button">
+					<div class="accordion-header d-flex align-items-center justify-content-between" data-bs-toggle="collapse" data-bs-target="#faq1" aria-expanded="false" aria-controls="faq1">
+						<h2>1. Quanto tempo demora um licenciamento?</h2>
+						<i class="symbol"></i>
+					</div>
+					<div id="faq1" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#OPS11">
+						<div class="accordion-body">
+						Depende do porte e da exigência do órgão; podemos estimar depois do diagnóstico.
+						</div>
+					</div>
+				</div>
+								<div class="accordion-item">
+					<div class="accordion-header d-flex align-items-center justify-content-between" data-bs-toggle="collapse" data-bs-target="#faq2" aria-expanded="false" aria-controls="faq2">
+						<h2>2. Vocês fazem o CAR?</h2>
+						<i class="symbol"></i>
+					</div>
+					<div id="faq2" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#OPS11">
+						<div class="accordion-body">
+						Sim — elaboramos e fazemos o acompanhamento até a aprovação.						</div>
+					</div>
+				</div>
+								<div class="accordion-item">
+					<div class="accordion-header d-flex align-items-center justify-content-between" data-bs-toggle="collapse" data-bs-target="#faq3" aria-expanded="false" aria-controls="faq3">
+						<h2>3.  Atendem em todo o estado/região?</h2>
+						<i class="symbol"></i>
+					</div>
+					<div id="faq3" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#OPS11">
+						<div class="accordion-body">
+						Informe sua cidade; fazemos atendimento presencial e remoto conforme necessidade.						</div>
+					</div>
+				</div>
+								<div class="accordion-item">
+					<div class="accordion-header d-flex align-items-center justify-content-between" data-bs-toggle="collapse" data-bs-target="#faq4" aria-expanded="false" aria-controls="faq4">
+						<h2>4. Fazem medições de ruído?</h2>
+						<i class="symbol"></i>
+					</div>
+					<div id="faq4" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#OPS11">
+						<div class="accordion-body">
+						Sim — monitoramento de níveis sonoros com emissão de laudo técnico.						</div>
+					</div>
+				</div>
+							</div>
+		</div>
+	</div>
+</section>
+	<style type="text/css">
+		:root {
+			--beneficios-fundo: #FFFFFF;--beneficios-cor: #3A3A3A;--beneficios-icones-titulos: #3D3D3D;		}
+	</style>
+	<style type="text/css">
+		#OPS10 {
+			background: var(--beneficios-fundo);
+			color: var(--beneficios-cor);
+		}
+		#OPS10 .titulo {color: var(--beneficios-cor);}
+		#OPS10 h2 {
+			font-size: 16px;
+			font-weight: 300;
+			text-align: center;
+			text-transform: uppercase;
+		}
+		#OPS10 .box {height: 100%;}
+		#OPS10 .box .icon {
+			text-align: center;	font-size: 40px; opacity: 0.5;
+			margin: 0 0 0.5rem 0; font-family: 'titulo';
+		}
+
+		#OPS10 .box .icon i {
+			font-size: 40px;
+			color: var(--beneficios-icones-titulos);
+		}
+
+		#OPS10 .box .text h3 {
+			font-size: 16px;
+			color: var(--beneficios-icones-titulos);
+		}
+
+		#OPS10 .box .text p {
+			text-align: center;
+		}
+	</style>
+	<section id="OPS10" class="section anchor-holder">
+	<div class="anchor" id="bloco-c"></div>
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-11 col-12 mb-4">
+					<h2></h2>
+					<h1 class="titulo mb-3"><small>Nosso processo</small><br> — simples, técnico e transparente
+</h1>
+				</div>
+				<div class="col-lg-2 col-md-6 col-12 mb-4">
+					<div class="box">
+						<div class="icon">
+							1.						</div>
+						<div class="text">
+							<h3> Diagnóstico inicial gratuito — visita técnica ou avaliação remota.
+</h3>
+							<p></p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-2 col-md-6 col-12 mb-4">
+					<div class="box">
+						<div class="icon">
+							2.						</div>
+						<div class="text">
+							<h3>Proposta técnica e comercial — escopo, prazos e documentos necessários.</h3>
+							<p></p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-2 col-md-6 col-12 mb-4">
+					<div class="box">
+						<div class="icon">
+							3.						</div>
+						<div class="text">
+							<h3>Elaboração dos estudos e projetos — laudo, EIA/RIMA, ART/RT e relatórios.</h3>
+							<p></p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-2 col-md-6 col-12 mb-4 mb-lg-0">
+					<div class="box">
+						<div class="icon">
+							4.						</div>
+						<div class="text">
+							<h3>Protocolo junto ao órgão ambiental — acompanhamento e defesa técnica.</h3>
+							<p></p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-2 col-md-6 col-12 mb-4 mb-md-0">
+					<div class="box">
+						<div class="icon">
+							5.						</div>
+						<div class="text">
+							<h3> Monitoramento e manutenção — relatórios periódicos e suporte pós-licença.
+</h3>
+							<p></p>
+						</div>
+					</div>
+				</div>
+				<!--<div class="col-lg-2 col-md-6 col-12">
+					<div class="box">
+						<div class="icon">
+													</div>
+						<div class="text">
+							<h3></h3>
+							<p></p>
+						</div>
+					</div>
+				</div>-->
+			</div>
+		</div>
+	</section>
+    <section id="reviews" class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="titulo mb-4">O que nossos clientes dizem</h1>
+                    <div class="slick-reviews slick-initialized slick-slider"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: block;"><i class="bi bi-chevron-left"></i></button>
+
+                        
+							
+
+						
+							
+
+						
+							
+
+						
+							
+
+						
+                    <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2934px; transform: translate3d(-652px, 0px, 0px);"><div class="depoimento d-flex slick-slide slick-cloned" tabindex="-1" style="width: 306px;" data-slick-index="-1" aria-hidden="true">
+								<div class="text">
+									<h2><b>– Paula Menezes, Empresária do Setor Industrial</b><br> Feito pelo Google</h2>
+									<p>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+									</p>
+									<p>"A consultoria fez toda a diferença no meu empreendimento. Além do licenciamento, orientaram sobre boas práticas ambientais. Trabalho sério e confiável."</p>
+								</div>
+							</div><div class="depoimento d-flex slick-slide" tabindex="-1" style="width: 306px;" data-slick-index="0" aria-hidden="true">
+								<div class="text">
+									<h2><b>– João Ricardo, Empresário</b><br> Feito pelo Google</h2>
+									<p>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+									</p>
+									<p>"Excelente atendimento! A Fernando Consultoria Ambiental cuidou de todo o processo de licenciamento da minha empresa com rapidez e profissionalismo. Hoje operamos totalmente regularizados."</p>
+								</div>
+							</div><div class="depoimento d-flex slick-slide slick-current slick-active" tabindex="0" style="width: 306px;" data-slick-index="1" aria-hidden="false">
+								<div class="text">
+									<h2><b> – Marina Lopes, Engenheira Civil</b><br> Feito pelo Google</h2>
+									<p>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+									</p>
+									<p>"Serviço impecável! Eles analisaram cada detalhe da obra, evitaram problemas futuros e garantiram todas as autorizações necessárias. Recomendo demais!"</p>
+								</div>
+							</div><div class="depoimento d-flex slick-slide" tabindex="-1" style="width: 306px;" data-slick-index="2" aria-hidden="true">
+								<div class="text">
+									<h2><b>– Carlos Henrique, Produtor Rural</b><br> Feito pelo Google</h2>
+									<p>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+									</p>
+									<p>"Precisei de apoio para licenciar minha atividade e fui surpreendido pela eficiência. Equipe responsável, experiente e sempre disponível para esclarecer dúvidas."</p>
+								</div>
+							</div><div class="depoimento d-flex slick-slide" tabindex="-1" style="width: 306px;" data-slick-index="3" aria-hidden="true">
+								<div class="text">
+									<h2><b>– Paula Menezes, Empresária do Setor Industrial</b><br> Feito pelo Google</h2>
+									<p>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+									</p>
+									<p>"A consultoria fez toda a diferença no meu empreendimento. Além do licenciamento, orientaram sobre boas práticas ambientais. Trabalho sério e confiável."</p>
+								</div>
+							</div><div class="depoimento d-flex slick-slide slick-cloned" tabindex="-1" style="width: 306px;" data-slick-index="4" aria-hidden="true">
+								<div class="text">
+									<h2><b>– João Ricardo, Empresário</b><br> Feito pelo Google</h2>
+									<p>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+									</p>
+									<p>"Excelente atendimento! A Fernando Consultoria Ambiental cuidou de todo o processo de licenciamento da minha empresa com rapidez e profissionalismo. Hoje operamos totalmente regularizados."</p>
+								</div>
+							</div><div class="depoimento d-flex slick-slide slick-cloned" tabindex="-1" style="width: 306px;" data-slick-index="5" aria-hidden="true">
+								<div class="text">
+									<h2><b> – Marina Lopes, Engenheira Civil</b><br> Feito pelo Google</h2>
+									<p>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+									</p>
+									<p>"Serviço impecável! Eles analisaram cada detalhe da obra, evitaram problemas futuros e garantiram todas as autorizações necessárias. Recomendo demais!"</p>
+								</div>
+							</div><div class="depoimento d-flex slick-slide slick-cloned" tabindex="-1" style="width: 306px;" data-slick-index="6" aria-hidden="true">
+								<div class="text">
+									<h2><b>– Carlos Henrique, Produtor Rural</b><br> Feito pelo Google</h2>
+									<p>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+									</p>
+									<p>"Precisei de apoio para licenciar minha atividade e fui surpreendido pela eficiência. Equipe responsável, experiente e sempre disponível para esclarecer dúvidas."</p>
+								</div>
+							</div><div class="depoimento d-flex slick-slide slick-cloned" tabindex="-1" style="width: 306px;" data-slick-index="7" aria-hidden="true">
+								<div class="text">
+									<h2><b>– Paula Menezes, Empresária do Setor Industrial</b><br> Feito pelo Google</h2>
+									<p>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+										<i class="bi bi-star-fill"></i>
+									</p>
+									<p>"A consultoria fez toda a diferença no meu empreendimento. Além do licenciamento, orientaram sobre boas práticas ambientais. Trabalho sério e confiável."</p>
+								</div>
+							</div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: block;"><i class="bi bi-chevron-right"></i></button></div>
+                </div>
+            </div>
+        </div>
+    </section>
+<section id="news" class="p-4">
+	<div class="container">
+		<div class="row align-items-center justify-content-center">
+			<div class="col-12 mb-4 mb-lg-0 contorno">
+				<div class="row align-items-center justify-content-center" id="newsletter">
+					<div class="col-lg-6 col-12 mb-2 mb-lg-0 text-center">
+						<p class="mb-0">RECEBA NOVIDADES, INCREVA-SE</p>
+					</div>
+					<div class="col-lg-4 col-12">
+						<div id="newsletter-box">
+							<form method="POST" action="javascript:void(0);" name="formNewsletter" data-toggle="ajax-form" data-target="#newsletter" data-link="https://www.fernandoconsultoria.com.br//_inc/newsletter.php">
+	<div class="input-group mb-3">
+		<input type="email" name="email_news" id="email_news" class="form-control text-sm-left" placeholder="Digite seu e-mail" aria-label="Digite seu e-mail aqui" aria-describedby="button-addon2" required="">
+		
+		<button type="submit" class="btn default" id="button-addon2">Enviar</button>
+	</div>
+
+</form>
+
+<script>
+const ajaxSubmitters = document.querySelectorAll('[data-toggle="ajax-form"][data-target][data-link]');
+for (let i = 0; i < ajaxSubmitters.length; i++)
+	ajaxSubmitters[i].addEventListener('submit', ajaxSubmited, false);
+
+function ajaxSubmited() {
+	let caller = this;
+	let target = caller.getAttribute('data-target');
+	let link = caller.getAttribute('data-link');
+
+	const dataFormulario = new FormData(caller);
+
+	$.ajax({
+  	async: true,
+  	cache: false,
+  	type: "POST",
+  	contentType: false,
+  	processData: false,
+  	data: dataFormulario,
+    url: link, success: function(result){ $(target).html(result); }
+	});
+
+	setTimeout(function() {
+		link = caller.getAttribute('data-link');
+		$(target).load(link);
+		target = document.querySelector(target);
+		setTimeout(function(){
+			let togglers = target.querySelectorAll('[data-toggle="ajax-form"][data-target][data-link]');
+			for (let i = 0; i < togglers.length; i++)
+				togglers[i].addEventListener('submit', ajaxSubmited, false);
+		}, 1000);
+	}, 5000);
+}	
+</script>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+	<style type="text/css">
+		:root {
+			--rodape-fundo: linear-gradient(to left, #7CBC65, #6CA358);--rodape-cor: #FFFFFF;		}
+	</style>
+	<style type="text/css">
+	#rodape.no-form {background: var(--rodape-fundo); color: var(--rodape-cor); text-align: center;padding-bottom: 25px;}
+	#rodape.no-form h2 {font-size: 16px; font-weight: 600; text-transform: uppercase;padding-bottom: 5px;font-family: 'titulo';}
+	#rodape.no-form p {font-size: 14px;}
+	#rodape.no-form a:hover {color: inherit; opacity: .75;}
+	#rodape.no-form .social a {font-size: 20px; display: flex; justify-content: center; align-items: center; width: 30px; height: 30px; background: #a1bf75; border-radius: 5px; padding: 3px;}
+	#rodape.no-form .social a i {display: flex; justify-content: center; align-items: center;}
+	#rodape.no-form .social a:not(:last-child) {margin-right: 0.5rem;}
+	#rodape.no-form .titulo {color: var(--rodape-cor); font-size: 22px;}
+	</style>
+	<section id="rodape" class="section no-form anchor-holder">
+		<div class="anchor" id="contato-one"></div>
+		<div class="container">
+			<div class="row text-lg-start">
+				<div class="col-12 mb-4">
+					<h1 class="titulo">Fale com a Fernando Consultoria Ambiental</h1>
+				</div>
+				<div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
+					<h2>Canais de Atendimento</h2>
+					<p class="mb-1"><i class="bi-whatsapp"></i> <a href="tel:55528974007902"> 28 97400-7902</a><br>
+<i class="bi-telephone"></i> <a href="tel:552835115868">28 3511-5868</a><br>
+<i class="bi-whatsapp"></i> <a href="tel:5528999028847">28 99902-8847</a>
+</p>
+					<p><a href="mailto:fernandocesarnetto@gmail.com"><i class="bi-envelope"></i> fernandocesarnetto@gmail.com</a></p>
+				</div>
+				<div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
+					<h2>Horário: </h2>
+					<p><i class="bi-clock"></i>  Seg–Sex 08:00–18:00</p>
+				</div>
+				<div class="col-lg-3 col-md-6 col-12 mb-4 mb-md-0">
+					<h2>CRQ ES 212.000.239</h2>
+					<p>Regularizamos o seu Empreendimento!</p>
+				</div>
+				<div class="col-lg-2 col-md-6 col-12 text-center">
+					<h2>Redes Sociais</h2>
+					<div class="d-flex social justify-content-center align-items-center">
+						<a target="_blank" href="https://www.youtube.com/channel/UCl8kL6gdsRSt0YfjSC5j0Fg"><i class="bi-youtube"></i></a>
+<a href="https://www.instagram.com/fernandocesarferreiranetto?igsh=MWE2Z21wNTcwNjJwaA=="><i class="bi-instagram"></i></a>
+<a href="https://www.facebook.com/fernandocesar.ferreiranetto/"><i class="bi-facebook"></i></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Rodapé -->
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<p class="text-center">Copyright © 2026. Desenvolvido pelo <a href="https://www.opsempresas.com.br" target="_blank" title="OPS Empresas">OPS</a> | Todos os direitos reservados.</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<!-- Whatsapp -->
+	<div class="whatsapp">
+		<a target="_blank" href="https://wa.me/5528974007902" title="Envie-nos uma mensagem pelo Whatsapp! É só clicar!"><img src="https://www.fernandoconsultoria.com.br//images/webp/whatsapp.webp"></a>
+	</div>
+
+	<!-- JavaScript -->
+	<script type="text/javascript" src="https://www.fernandoconsultoria.com.br//js/jquery.js"></script>
+	<script type="text/javascript" src="https://www.fernandoconsultoria.com.br//js/bootstrap.bundle.min.js"></script>
+	<script type="text/javascript" src="https://www.fernandoconsultoria.com.br//js/lightbox.js"></script>
+	<script type="text/javascript" src="https://www.fernandoconsultoria.com.br//js/slick.min.js"></script>
+	<script type="text/javascript" src="https://www.fernandoconsultoria.com.br//js/framework.js"></script>
+
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		var cookie = localStorage.getItem("6N)MY93BA9utaNpriv+acy");
+		criaCookie();
+		$("#cookie-law-info-bar a.accept_legal_majority").click(function() {
+			$("#cookie-law-info-bar").fadeToggle("slow");
+			criaCookie(true);
+		});
+
+		function criaCookie(a) {
+			var data = new Date();
+			var data_atual = data.valueOf();
+			var data_pos = data.setHours(data.getHours() + 168);
+			if (a) {
+				localStorage.setItem("6N)MY93BA9utaNpriv+acy", data_pos);
+			} else if (cookie < data_atual) {
+				$("#cookie-law-info-bar").show();
+			}
+		}
+	});
+</script>
+
+<div id="cookie-law-info-bar" style="bottom: 0px; position: fixed; display: none;"><b>Política de Privacidade</b><br><br><span>Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços. Para mais informações, consulte a nossa <a href="https://www.fernandoconsultoria.com.br//politicadeprivacidade">Política de Privacidade</a>. <br><br><a href="#" class="accept_legal_majority" style="padding: 3px; background-color:black; color:#fff;">OK</a></span></div>
+
+
+<div id="lightboxOverlay" tabindex="-1" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" tabindex="-1" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt=""><div class="lb-nav"><a class="lb-prev" aria-label="Previous image" href=""></a><a class="lb-next" aria-label="Next image" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>

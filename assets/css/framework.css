@@ -1,0 +1,728 @@
+/* ============================================================
+   Framework OPS — Reconstruído para uso local
+   Fernando Consultoria Ambiental
+   ============================================================ */
+
+/* --- FONTES --- */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap');
+
+:root {
+  --font-titulo: 'Montserrat', sans-serif;
+  --font-texto: 'Montserrat', sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: var(--font-texto), sans-serif;
+  font-size: 15px;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Fontes internas usadas pelo OPS */
+@font-face {
+  font-family: 'titulo';
+  src: local('Montserrat Bold'), local('Montserrat-Bold');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'texto';
+  src: local('Montserrat'), local('Montserrat-Regular');
+  font-weight: 400;
+}
+
+/* --- LINKS --- */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+a:hover {
+  color: var(--link-hover, #90D975);
+}
+
+/* ============================================================
+   HEADER
+   ============================================================ */
+header.sticky-top {
+  top: 0;
+  z-index: 1030;
+  width: 100%;
+}
+
+header .header {
+  background: var(--header-fundo, linear-gradient(to left, #7CBC65, #A1C175));
+  color: var(--header-cor, #fff);
+  padding: 6px 0;
+  font-size: 13px;
+}
+
+header .header a {
+  color: var(--header-cor, #fff);
+  margin-left: 6px;
+}
+
+header .header .social {
+  font-weight: 600;
+  font-size: 13px;
+}
+
+header .header p {
+  margin: 0;
+}
+
+/* NAVBAR */
+header nav.navbar {
+  background: var(--navbar-one-fundo, #fff);
+  padding: 8px 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,.08);
+}
+
+header nav .navbar-brand img.brand {
+  max-height: 60px;
+  width: auto;
+}
+
+header nav .navbar-nav .nav-link {
+  color: var(--navbar-one-cor, #414449);
+  font-size: 14px;
+  font-weight: 500;
+  padding: 8px 14px;
+  transition: color 0.2s;
+}
+
+header nav .navbar-nav .nav-link:hover {
+  color: var(--link-hover, #90D975);
+}
+
+header nav .navbar-nav .nav-item:last-child .nav-link {
+  background: var(--btn-default-fundo, linear-gradient(to left, #A2C175, #349E2B));
+  color: var(--btn-default-cor, #fff);
+  border-radius: 6px;
+  padding: 8px 18px;
+  font-weight: 600;
+}
+
+header nav .navbar-nav .nav-item:last-child .nav-link span {
+  color: #fff;
+}
+
+header nav .navbar-toggler {
+  border: none;
+  font-size: 26px;
+  color: var(--navbar-one-cor, #414449);
+}
+
+header nav .navbar-toggler:focus { box-shadow: none; }
+
+/* ============================================================
+   BOTÕES
+   ============================================================ */
+.btn.default {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--btn-default-fundo, linear-gradient(to left, #A2C175, #349E2B));
+  color: var(--btn-default-cor, #fff);
+  border: none;
+  border-radius: 6px;
+  padding: 12px 28px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background 0.3s, opacity 0.2s;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn.default:hover {
+  background: var(--btn-default-fundo-hover, linear-gradient(to right, #A2C175, #349E2B));
+  color: var(--btn-default-cor-hover, #fff);
+  opacity: 0.92;
+}
+
+.btn.default .front,
+.btn.default .back {
+  display: inline;
+}
+.btn.default .back { display: none; }
+
+.btn.secondary {
+  background: var(--btn-secondary-fundo, #297927);
+  color: var(--btn-secondary-cor, #fff);
+  border: none;
+  border-radius: 6px;
+  padding: 10px 24px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* ============================================================
+   TÍTULOS (classe .titulo)
+   ============================================================ */
+.titulo {
+  color: var(--cor-do-titulo, #517A42);
+  font-family: 'titulo', 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.3;
+  position: relative;
+  padding-bottom: 12px;
+  text-align: center;
+}
+
+.titulo::after {
+  content: '';
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: var(--barrinha-do-titulo, #A2C175);
+  border-radius: 2px;
+  margin: 10px auto 0;
+}
+
+.titulo.text-lg-start::after {
+  margin-left: 0;
+}
+
+/* ============================================================
+   SECTION — espaçamento padrão
+   ============================================================ */
+.section {
+  padding: 70px 0;
+}
+
+/* ============================================================
+   ANCHOR HOLDER
+   ============================================================ */
+.anchor-holder { position: relative; }
+.anchor {
+  position: absolute;
+  top: -80px;
+}
+
+/* ============================================================
+   SEÇÃO BANNER / PAINEL
+   ============================================================ */
+#painel {
+  position: relative;
+}
+
+#painel .carousel-item img {
+  width: 100%;
+  height: calc(100vh - 100px);
+  object-fit: cover;
+}
+
+#painel .carousel-caption {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(rgba(0,0,0,.43), rgba(0,0,0,.63));
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  text-align: left;
+}
+
+#painel .carousel-caption h1 {
+  font-size: 32px;
+  color: #fff;
+  font-weight: 700;
+  margin-bottom: 12px;
+  line-height: 1.3;
+}
+
+#painel .carousel-caption h2 {
+  font-size: 16px;
+  color: #fff;
+  font-weight: 300;
+  margin-bottom: 8px;
+  text-transform: none;
+}
+
+#painel .carousel-caption p {
+  color: #fff;
+  font-size: 14px;
+}
+
+@media (max-width: 767px) {
+  #painel .carousel-caption h1 { font-size: 22px; }
+  #painel .carousel-caption h2 { font-size: 14px; }
+  #painel .carousel-item img { height: 70vh; }
+}
+
+/* ============================================================
+   SEÇÃO QUEM SOMOS (#OPS4)
+   ============================================================ */
+#OPS4 img {
+  height: 300px;
+  object-fit: contain;
+  border-radius: 0;
+  max-width: 100%;
+}
+
+#OPS4 .box { padding: 30px; }
+#OPS4 .box p {
+  line-height: 1.7;
+  font-size: 14px;
+  text-align: justify;
+}
+
+/* ============================================================
+   CARDS MISSÃO/VISÃO/VALORES (#OPS3)
+   ============================================================ */
+#OPS3 .box {
+  border-radius: 10px;
+  background: var(--diferencial-caixa-fundo, linear-gradient(to left, #82B46F, #A1C175));
+  box-shadow: 0 5px 10px rgba(0,0,0,.15);
+  color: var(--diferencial-caixa-cor, #fff);
+  height: 100%;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+#OPS3 .box i {
+  color: var(--diferencial-caixa-icone, #9FFD9C);
+  font-size: 35px;
+}
+
+#OPS3 .box h2 {
+  font-weight: 600;
+  padding-bottom: 0.3rem;
+  font-size: 18px;
+  font-family: 'titulo', sans-serif;
+  color: #fff;
+}
+
+#OPS3 .box p { font-size: 14px; }
+
+/* ============================================================
+   SERVIÇOS (#OPS5)
+   ============================================================ */
+#OPS5 {
+  background: var(--icones-fundo, linear-gradient(45deg, #fff, #fff));
+  color: var(--icones-cor, #404040);
+}
+
+#OPS5 .titulo p {
+  font-family: 'texto', sans-serif;
+  font-weight: 400;
+  color: #888;
+  font-size: 15px;
+}
+
+#OPS5 .conteudo {
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0,0,0,.15);
+  border-radius: 10px;
+  height: 380px;
+  border: solid 2px #7CBC65;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+}
+
+#OPS5 .conteudo img {
+  height: 100px;
+  object-fit: contain;
+  padding: 10px;
+}
+
+#OPS5 .conteudo h3 {
+  font-size: 13px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+#OPS5 .conteudo h3 b {
+  font-family: 'titulo', sans-serif;
+  color: #7CBC65;
+  display: block;
+  margin-bottom: 6px;
+}
+
+/* ============================================================
+   QUEM SOU EU (#OPS7)
+   ============================================================ */
+#OPS7 {
+  background: var(--d-fundo, #F2F2F2);
+  color: var(--d-cor, #333);
+}
+
+#OPS7 img {
+  height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+  max-width: 100%;
+}
+
+#OPS7 .box { padding: 30px; }
+#OPS7 .box p { text-align: justify; font-size: 14px; line-height: 1.6; }
+#OPS7 .titulo { color: var(--d-cor, #333); }
+
+/* ============================================================
+   LICENÇAS POR ATIVIDADE (#OPS8)
+   ============================================================ */
+#OPS8 img {
+  max-height: 550px;
+  border-radius: 0;
+  object-fit: contain;
+  max-width: 100%;
+}
+
+#OPS8 p { font-size: 14px; text-align: justify; line-height: 1.7; }
+#OPS8 h2 {
+  font-size: 18px;
+  color: #787878;
+  padding-bottom: 5px;
+  font-weight: 400;
+}
+#OPS8 p i { color: #78bc65; font-size: 16px; }
+#OPS8 .text { padding: 20px; }
+
+@media (min-width: 992px) {
+  #OPS8 .titulo { text-align: center; }
+  #OPS8 h2 { text-align: center; }
+}
+@media (max-width: 991px) {
+  #OPS8 h2 { text-align: center; }
+  #OPS8 img { height: auto; max-height: 350px; }
+}
+
+/* ============================================================
+   GALERIA (#OPS13)
+   ============================================================ */
+#OPS13 {
+  background: var(--acomodacoes-fundo, #fff);
+  color: var(--acomodacoes-cor, #A2C175);
+}
+
+#OPS13 .titulo { color: var(--acomodacoes-cor, #A2C175); }
+
+#OPS13 .box {
+  box-shadow: 0 2px 5px rgba(0,0,0,.1);
+  position: relative;
+  z-index: 0;
+  display: flex;
+  overflow: hidden;
+}
+
+#OPS13 .box img {
+  height: 340px;
+  object-fit: cover;
+  width: 100%;
+}
+
+#OPS13 .box .overlay {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: linear-gradient(rgba(0,0,0,.15), rgba(0,0,0,.65));
+  padding: 5px 15px;
+  display: flex;
+  align-items: flex-end;
+}
+
+#OPS13 .box .overlay h2 {
+  font-weight: 600;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+/* ============================================================
+   FAQ (#OPS11)
+   ============================================================ */
+#OPS11 {
+  background: var(--ops36-fundo, #65B157);
+}
+
+#OPS11 .titulo {
+  margin-bottom: 0.75rem;
+  color: var(--ops36-titulo, #fff);
+}
+
+#OPS11 .subtitulo {
+  margin-bottom: 1.75rem;
+  color: var(--ops36-subtitulo, #fff);
+  text-align: center;
+}
+
+#OPS11 .accordion-item {
+  margin-bottom: 1rem;
+}
+
+#OPS11 .accordion-item .accordion-header {
+  border-bottom: 1px solid var(--ops36-borda, #fff);
+  cursor: pointer;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,.15);
+  background: var(--ops36-fundo, #65B157);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#OPS11 .accordion-item .accordion-header h2 {
+  font-size: 16px;
+  margin-bottom: 0;
+  color: var(--ops36-subtitulo, #fff);
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  font-weight: 400;
+}
+
+#OPS11 .accordion-item .accordion-header .symbol {
+  width: 17px;
+  height: 17px;
+  position: relative;
+  flex-shrink: 0;
+}
+
+#OPS11 .accordion-item .accordion-header .symbol::before,
+#OPS11 .accordion-item .accordion-header .symbol::after {
+  content: '';
+  position: absolute;
+  background: var(--ops36-seta, #C5FFAE);
+}
+
+#OPS11 .accordion-item .accordion-header .symbol::before {
+  width: 100%; height: 3px; border-radius: 5px;
+  top: 50%; left: 0; transform: translateY(-50%);
+}
+
+#OPS11 .accordion-item .accordion-header .symbol::after {
+  width: 3px; height: 100%; border-radius: 5px;
+  top: 0; left: 50%; transform: translateX(-50%);
+  transition: .4s ease-in-out;
+}
+
+#OPS11 .accordion-item .accordion-header[aria-expanded="true"] .symbol::after {
+  opacity: 0;
+}
+
+#OPS11 .accordion-item .accordion-body {
+  background: rgba(255,255,255,0.15);
+  color: #fff;
+  padding: 1rem;
+  border-radius: 0 0 10px 10px;
+  font-size: 14px;
+}
+
+/* ============================================================
+   PROCESSOS (#OPS10)
+   ============================================================ */
+#OPS10 {
+  background: var(--beneficios-fundo, #fff);
+  color: var(--beneficios-cor, #3A3A3A);
+}
+
+#OPS10 .titulo { color: var(--beneficios-cor, #3A3A3A); }
+
+#OPS10 h2 {
+  font-size: 16px;
+  font-weight: 300;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#OPS10 .box { height: 100%; text-align: center; }
+
+#OPS10 .box .icon {
+  text-align: center;
+  font-size: 40px;
+  opacity: 0.5;
+  margin: 0 0 0.5rem 0;
+  font-family: 'titulo', sans-serif;
+  font-weight: 700;
+  color: var(--cor-do-titulo, #517A42);
+}
+
+#OPS10 .box .text h3 {
+  font-size: 14px;
+  color: var(--beneficios-icones-titulos, #3D3D3D);
+  line-height: 1.5;
+}
+
+/* ============================================================
+   DEPOIMENTOS (#reviews)
+   ============================================================ */
+#reviews {
+  background: #f9f9f9;
+}
+
+#reviews .titulo { margin-bottom: 1.5rem; }
+
+.depoimento {
+  padding: 24px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.08);
+  margin: 8px 12px;
+  flex-direction: column;
+}
+
+.depoimento .text h2 {
+  font-size: 13px;
+  font-weight: 700;
+  color: #555;
+  margin-bottom: 6px;
+  line-height: 1.4;
+}
+
+.depoimento .text p {
+  font-size: 13px;
+  color: #555;
+  line-height: 1.6;
+}
+
+.depoimento .text .bi-star-fill {
+  color: #f5c518;
+  font-size: 14px;
+}
+
+/* ============================================================
+   NEWSLETTER (#news)
+   ============================================================ */
+#news {
+  background: linear-gradient(to left, #7CBC65, #A1C175);
+  color: #fff;
+}
+
+#news p { margin: 0; font-weight: 600; font-size: 14px; }
+
+#news .form-control {
+  border-radius: 6px 0 0 6px;
+  border: none;
+}
+
+#news .btn.default {
+  border-radius: 0 6px 6px 0;
+}
+
+/* ============================================================
+   RODAPÉ / CONTATO (#rodape)
+   ============================================================ */
+#rodape.no-form {
+  background: var(--rodape-fundo, linear-gradient(to left, #7CBC65, #6CA358));
+  color: var(--rodape-cor, #fff);
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+#rodape.no-form h2 {
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding-bottom: 5px;
+  font-family: 'titulo', sans-serif;
+}
+
+#rodape.no-form p { font-size: 14px; }
+#rodape.no-form a { color: #fff; }
+#rodape.no-form a:hover { opacity: .75; color: #fff; }
+
+#rodape.no-form .social a {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 36px;
+  height: 36px;
+  background: #a1bf75;
+  border-radius: 5px;
+  padding: 3px;
+  color: #fff;
+  margin: 0 4px;
+}
+
+#rodape.no-form .titulo {
+  color: var(--rodape-cor, #fff);
+  font-size: 22px;
+}
+
+/* ============================================================
+   FOOTER (copyright)
+   ============================================================ */
+footer {
+  background: var(--copyright-fundo, #7CBC65);
+  color: var(--copyright-cor, #fff);
+  padding: 14px 0;
+  text-align: center;
+  font-size: 12px;
+}
+
+footer a { color: #fff; font-weight: 600; }
+
+/* ============================================================
+   WHATSAPP FLUTUANTE
+   ============================================================ */
+.whatsapp {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 9999;
+}
+
+.whatsapp img {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0,0,0,.3);
+}
+
+/* ============================================================
+   SLICK CAROUSEL — ajustes visuais
+   ============================================================ */
+.slick-slider { position: relative; display: block; }
+.slick-list { overflow: hidden; }
+.slick-track { display: flex; }
+.slick-slide { height: auto; }
+
+.slick-prev,
+.slick-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  background: rgba(255,255,255,0.8);
+  border: none;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  color: #517A42;
+  box-shadow: 0 2px 6px rgba(0,0,0,.2);
+}
+
+.slick-prev { left: -18px; }
+.slick-next { right: -18px; }
+
+.slick-servicos .slick-prev { left: -10px; }
+.slick-servicos .slick-next { right: -10px; }
+
+/* ============================================================
+   UTILITÁRIOS
+   ============================================================ */
+.pb-0 { padding-bottom: 0 !important; }
+.mb-4 { margin-bottom: 1.5rem !important; }
+
+/* Cookie bar */
+#cookie-law-info-bar {
+  background: #333;
+  color: #fff;
+  padding: 16px 24px;
+  font-size: 13px;
+  z-index: 99999;
+}
