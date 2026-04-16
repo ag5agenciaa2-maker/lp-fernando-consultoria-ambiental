@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /politica-de-privacidade.html
+Disallow: /termos-e-condicoes.html
+
+Sitemap: https://www.fernandoconsultoria.com.br/sitemap.xml

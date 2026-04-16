@@ -1,14 +1,30 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="pt-br">
+<html dir="ltr" lang="pt-BR">
 <head>
-  <title>Fernando Consultoria Ambiental — Licenciamento e Monitoramento Ambiental</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="UTF-8">
+  <title>Consultoria Ambiental em Cachoeiro de Itapemirim ES | Fernando Consultoria Ambiental</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
-  <meta name="description" content="Licenciamento ambiental, monitoramento de ruído, recuperação de áreas degradadas, CAR e auditorias. Atuação técnica e personalizada em todo o Espírito Santo. Solicite orçamento.">
+  <meta name="description" content="Licenciamento ambiental, monitoramento de ruído, recuperação de áreas degradadas, CAR e auditorias em Cachoeiro de Itapemirim e todo o Espírito Santo. CRQ ES 212.000.239. Solicite orçamento.">
   <meta name="keywords" content="consultoria ambiental, licenciamento ambiental, monitoramento sonoro, recuperação de área, CAR, auditoria ambiental, licenciamento de oficina, licenças ambiental, cachoeiro de itapemirim, espírito santo">
-  <meta property="og:title" content="Fernando Consultoria Ambiental — Licenciamento e Monitoramento Ambiental">
-  <meta property="og:description" content="Soluções ambientais completas para regularização do seu empreendimento. CRQ ES 212.000.239.">
-  <meta property="og:image" content="assets/images/fernando-consultoria-ambiental-cartao-servicos.webp">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  <link rel="canonical" href="https://www.fernandoconsultoria.com.br/">
+  <meta property="og:title" content="Consultoria Ambiental em Cachoeiro de Itapemirim ES | Fernando Consultoria Ambiental">
+  <meta property="og:description" content="Licenciamento ambiental, monitoramento, CAR e auditorias em Cachoeiro de Itapemirim e todo o Espírito Santo. CRQ ES 212.000.239.">
+  <meta property="og:image" content="https://www.fernandoconsultoria.com.br/assets/images/fernando-consultoria-ambiental-cartao-servicos.webp">
+  <meta property="og:url" content="https://www.fernandoconsultoria.com.br/">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt_BR">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Consultoria Ambiental em Cachoeiro de Itapemirim ES | Fernando Consultoria Ambiental">
+  <meta name="twitter:description" content="Licenciamento ambiental, monitoramento, CAR e auditorias em Cachoeiro de Itapemirim e todo o Espírito Santo. CRQ ES 212.000.239.">
+  <meta name="twitter:image" content="https://www.fernandoconsultoria.com.br/assets/images/fernando-consultoria-ambiental-cartao-servicos.webp">
+  <meta name="geo.region" content="BR-ES">
+  <meta name="geo.placename" content="Cachoeiro de Itapemirim, Espírito Santo">
+  <meta name="geo.position" content="-20.8489;-41.1129">
+  <meta name="ICBM" content="-20.8489, -41.1129">
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" as="image" href="assets/images/area-verde-lago-recuperacao-ambiental-es.webp" imagesrcset="assets/images/area-verde-lago-recuperacao-ambiental-es.webp" imagesizes="100vw">
   <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon-fernando-consultoria-ambiental.ico">
 
   <!-- CSS | Variáveis de cor -->
@@ -65,6 +81,7 @@
     #painel .carousel-item img {
       width: 100%;
       height: calc(100vh - 100px);
+      min-height: 420px;
       object-fit: cover;
       object-position: center 30%;
       display: block;
@@ -87,7 +104,7 @@
       text-align: left;
     }
 
-    #painel .carousel-caption h1 {
+    #painel .carousel-caption .hero-title {
       font-size: 42px;
       color: #fff;
       font-weight: 800;
@@ -184,7 +201,7 @@
     .hero-badge i { color: #A8E06A; font-size: 16px; }
 
     @media (max-width: 991px) {
-      #painel .carousel-caption h1 { font-size: 28px; }
+      #painel .carousel-caption .hero-title { font-size: 28px; }
       #painel .carousel-caption h2 { font-size: 14px; }
       #painel .carousel-item img { height: 85vh; object-position: 60% center; }
       .hero-badges { gap: 6px; }
@@ -192,7 +209,7 @@
     }
 
     @media (max-width: 575px) {
-      #painel .carousel-caption h1 { font-size: 22px; }
+      #painel .carousel-caption .hero-title { font-size: 22px; }
       #painel .carousel-item img { height: 90vh; }
     }
 
@@ -344,10 +361,13 @@
   <!-- CSS locais -->
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/bootstrap-icons.css">
-  <link rel="stylesheet" href="assets/css/lightbox.css">
-  <link rel="stylesheet" href="assets/css/slick.min.css">
   <link rel="stylesheet" href="assets/css/framework.css">
   <link rel="stylesheet" href="cookie-banner.css">
+  <!-- PageSpeed: carregar CSS abaixo da dobra de forma não bloqueante -->
+  <link rel="preload" href="assets/css/lightbox.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="assets/css/lightbox.css"></noscript>
+  <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="assets/css/slick.min.css"></noscript>
 </head>
 
 <body>
@@ -364,10 +384,10 @@
         </div>
         <div class="col-lg-8 col-12 text-end">
           <p>
-            <a href="tel:5528974007902"><i class="bi-phone"></i> 28 97400-7902</a> |
-            <a href="tel:552835115868"><i class="bi-telephone"></i> 28 3511-5868</a> |
-            <a href="tel:5528999028847"><i class="bi-phone"></i> 28 99902-8847</a> |
-            <a href="mailto:fernandocesarnetto@gmail.com"><i class="bi-envelope-fill ms-lg-2"></i></a>
+            <a href="tel:5528974007902" aria-label="Ligar para WhatsApp 28 97400-7902"><i class="bi-phone"></i> 28 97400-7902</a> |
+            <a href="tel:552835115868" aria-label="Ligar para fixo 28 3511-5868"><i class="bi-telephone"></i> 28 3511-5868</a> |
+            <a href="tel:5528999028847" aria-label="Ligar para WhatsApp 28 99902-8847"><i class="bi-phone"></i> 28 99902-8847</a> |
+            <a href="mailto:fernandocesarnetto@gmail.com" aria-label="Enviar e-mail"><i class="bi-envelope-fill ms-lg-2"></i></a>
           </p>
         </div>
       </div>
@@ -377,9 +397,9 @@
         </div>
         <div class="col-12">
           <p class="text-center">
-            <a href="tel:5528974007902"><i class="bi-phone"></i> 28 97400-7902</a> |
-            <a href="tel:552835115868"><i class="bi-telephone"></i> 28 3511-5868</a> |
-            <a href="mailto:fernandocesarnetto@gmail.com"><i class="bi-envelope-fill ms-lg-2"></i></a>
+            <a href="tel:5528974007902" aria-label="Ligar para WhatsApp 28 97400-7902"><i class="bi-phone"></i> 28 97400-7902</a> |
+            <a href="tel:552835115868" aria-label="Ligar para fixo 28 3511-5868"><i class="bi-telephone"></i> 28 3511-5868</a> |
+            <a href="mailto:fernandocesarnetto@gmail.com" aria-label="Enviar e-mail"><i class="bi-envelope-fill ms-lg-2"></i></a>
           </p>
         </div>
       </div>
@@ -389,7 +409,7 @@
   <nav class="navbar navbar-expand-lg">
     <div class="container">
       <a class="navbar-brand" href="#inicio">
-        <img class="brand" src="assets/images/fernando-consultoria-ambiental-logo-desktop.webp" alt="Fernando Consultoria Ambiental — Logo">
+        <img class="brand" src="assets/images/fernando-consultoria-ambiental-logo-desktop.webp" alt="Fernando Consultoria Ambiental — Logo" width="200" height="60">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
         aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -404,7 +424,7 @@
           <li class="nav-item" data-toggle="click"><a class="nav-link" href="#faq-2">FAQ</a></li>
           <li class="nav-item" data-toggle="click"><a class="nav-link" href="#contato-one">Contato</a></li>
           <li class="nav-item" data-toggle="click">
-            <a class="nav-link" href="https://wa.me/5528974007902" target="_blank"><span>Solicitar Orçamento</span></a>
+            <a class="nav-link" href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20site%20e%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o." target="_blank" rel="noopener noreferrer"><span>Solicitar Orçamento</span></a>
           </li>
         </ul>
       </div>
@@ -424,7 +444,8 @@
       <div class="carousel-item active">
         <img
           src="assets/images/area-verde-lago-recuperacao-ambiental-es.webp"
-          alt="Área verde com lago — recuperação ambiental, Fernando Consultoria Ambiental ES">
+          alt="Área verde com lago — recuperação ambiental, Fernando Consultoria Ambiental ES"
+          width="1920" height="1080" fetchpriority="high">
         <div class="carousel-caption d-flex align-items-center">
           <div class="container">
             <div class="row justify-content-lg-start justify-content-center">
@@ -435,10 +456,10 @@
                   CRQ ES 212.000.239 &nbsp;·&nbsp; Cachoeiro de Itapemirim — ES
                 </div>
 
-                <h1 class="text-center text-lg-start">
+                <p class="hero-title text-center text-lg-start">
                   <span class="destaque">Fernando Consultoria Ambiental</span>
                   Tudo em meio ambiente para regularizar o seu empreendimento
-                </h1>
+                </p>
                 <h2 class="text-center text-lg-start">
                   Licenciamento, monitoramento, auditoria e projetos ambientais com responsabilidade técnica e atuação em todo o Espírito Santo.
                 </h2>
@@ -447,7 +468,7 @@
                 </p>
 
                 <div class="d-lg-flex justify-content-lg-start justify-content-center mt-3 gap-2 flex-wrap">
-                  <a href="https://wa.me/5528974007902" target="_blank" class="btn default mb-2">
+                  <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20site%20e%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o." target="_blank" rel="noopener noreferrer" class="btn default mb-2" role="button" aria-label="Solicitar Orçamento pelo WhatsApp">
                     <div class="front"><i class="bi bi-whatsapp me-2"></i>Solicitar Orçamento</div>
                   </a>
                   <a href="#bloco-one" class="btn-hero-outline mb-2">
@@ -472,7 +493,8 @@
       <div class="carousel-item">
         <img
           src="assets/images/floresta-nativa-reflorestamento-mata-atlantica.webp"
-          alt="Floresta nativa — reflorestamento e recuperação ambiental, Fernando Consultoria Ambiental">
+          alt="Floresta nativa — reflorestamento e recuperação ambiental, Fernando Consultoria Ambiental"
+          width="1920" height="1080" loading="lazy">
         <div class="carousel-caption d-flex align-items-center">
           <div class="container">
             <div class="row justify-content-lg-start justify-content-center">
@@ -483,15 +505,15 @@
                   Reflorestamento &amp; Recuperação de Áreas Degradadas
                 </div>
 
-                <h1 class="text-center text-lg-start">
+                <p class="hero-title text-center text-lg-start">
                   Restauramos ecossistemas e regularizamos sua atividade com projetos técnicos completos
-                </h1>
+                </p>
                 <h2 class="text-center text-lg-start">
                   Seleção de espécies nativas, acompanhamento técnico, CAR, EIA/RIMA e relatórios de sucesso.
                 </h2>
 
                 <div class="d-lg-flex justify-content-lg-start justify-content-center mt-3 gap-2">
-                  <a href="https://wa.me/5528974007902" target="_blank" class="btn default mb-2">
+                  <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20site%20e%20gostaria%20de%20saber%20sobre%20Reflorestamento%20e%20Recupera%C3%A7%C3%A3o%20de%20%C3%81reas%20Degradadas." target="_blank" rel="noopener noreferrer" class="btn default mb-2" role="button" aria-label="Falar sobre Reflorestamento pelo WhatsApp">
                     <div class="front"><i class="bi bi-whatsapp me-2"></i>Fale Conosco</div>
                   </a>
                   <a href="#bloco-botao" class="btn-hero-outline mb-2">
@@ -509,7 +531,8 @@
       <div class="carousel-item">
         <img
           src="assets/images/lago-rural-monitoramento-hidrico-ambiental.webp"
-          alt="Lago rural — monitoramento hídrico ambiental, Fernando Consultoria Ambiental ES">
+          alt="Lago rural — monitoramento hídrico ambiental, Fernando Consultoria Ambiental ES"
+          width="1920" height="1080" loading="lazy">
         <div class="carousel-caption d-flex align-items-center">
           <div class="container">
             <div class="row justify-content-lg-start justify-content-center">
@@ -520,16 +543,51 @@
                   Monitoramento Ambiental &amp; Laudos Técnicos
                 </div>
 
-                <h1 class="text-center text-lg-start">
+                <p class="hero-title text-center text-lg-start">
                   Monitoramos qualidade do ar, água e ruído para manter sua empresa dentro da lei
-                </h1>
+                </p>
                 <h2 class="text-center text-lg-start">
                   Laudos técnicos, relatórios periódicos e suporte junto aos órgãos ambientais competentes.
                 </h2>
 
                 <div class="d-lg-flex justify-content-lg-start justify-content-center mt-3 gap-2">
-                  <a href="https://wa.me/5528974007902" target="_blank" class="btn default mb-2">
+                  <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20site%20e%20gostaria%20de%20saber%20sobre%20Monitoramento%20Ambiental%20e%20Laudos%20T%C3%A9cnicos." target="_blank" rel="noopener noreferrer" class="btn default mb-2" role="button" aria-label="Agendar Diagnóstico Gratuito pelo WhatsApp">
                     <div class="front"><i class="bi bi-whatsapp me-2"></i>Agendar Diagnóstico Gratuito</div>
+                  </a>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Slide 4 — Indústrias -->
+      <div class="carousel-item">
+        <img
+          src="assets/images/fachada-escritorio-fernando-consultoria-ambiental.webp"
+          alt="Indústrias e Cerâmicas — Licenciamento Ambiental, Fernando Consultoria Ambiental ES"
+          width="1920" height="1080" loading="lazy">
+        <div class="carousel-caption d-flex align-items-center">
+          <div class="container">
+            <div class="row justify-content-lg-start justify-content-center">
+              <div class="col-lg-7 col-12">
+
+                <div class="hero-credencial">
+                  <i class="bi bi-buildings"></i>
+                  Licenciamento para Indústrias &amp; Cerâmicas
+                </div>
+
+                <p class="hero-title text-center text-lg-start">
+                  Regularização completa para fábricas, olarias e parques industriais
+                </p>
+                <h2 class="text-center text-lg-start">
+                  Atuamos desde o diagnóstico até a emissão da Licença de Operação, garantindo segurança jurídica.
+                </h2>
+
+                <div class="d-lg-flex justify-content-lg-start justify-content-center mt-3 gap-2">
+                  <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20site%20e%20gostaria%20de%20saber%20sobre%20Licenciamento%20Industrial%20e%20Cer%C3%A2micas." target="_blank" rel="noopener noreferrer" class="btn default mb-2" role="button" aria-label="Solicitar Licenciamento Industrial pelo WhatsApp">
+                    <div class="front"><i class="bi bi-whatsapp me-2"></i>Solicitar Orçamento</div>
                   </a>
                 </div>
 
@@ -556,6 +614,7 @@
       <button type="button" data-bs-target="#carousel-painel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
       <button type="button" data-bs-target="#carousel-painel" data-bs-slide-to="1" aria-label="Slide 2"></button>
       <button type="button" data-bs-target="#carousel-painel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      <button type="button" data-bs-target="#carousel-painel" data-bs-slide-to="3" aria-label="Slide 4"></button>
     </div>
   </div>
 </section>
@@ -605,16 +664,16 @@
         <img
           src="assets/images/fachada-escritorio-fernando-consultoria-ambiental.webp"
           alt="Fachada do escritório Fernando Consultoria Ambiental — Cachoeiro de Itapemirim ES"
-          class="sobre-img">
+          class="sobre-img" width="800" height="600" loading="lazy">
       </div>
       <div class="col-lg-6 col-12">
         <div class="box">
-          <h1 class="titulo text-lg-start mb-4">Quem somos</h1>
+          <h2 class="titulo text-lg-start mb-4">Quem somos</h2>
           <p>A <strong>Fernando Consultoria Ambiental</strong> é uma empresa especializada em soluções ambientais completas, credenciada ao Conselho Regional de Química do Espírito Santo — CRQ ES 212.000.239.</p>
           <p>Formada por profissionais experientes em meio ambiente, engenharia e segurança do trabalho, atuamos para consolidar a Política Nacional do Meio Ambiente por meio de licenciamento, monitoramento, projetos de recuperação e educação ambiental.</p>
           <p>Nosso compromisso é proteger a qualidade ambiental e <strong>reduzir riscos legais e operacionais</strong> das atividades que geram impacto — regularizando seu empreendimento com agilidade, ética e responsabilidade técnica.</p>
           <div class="mt-3 d-flex flex-wrap gap-2 justify-content-lg-start justify-content-center">
-            <a href="https://wa.me/5528974007902" target="_blank" class="btn default">
+            <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20site%20e%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o." target="_blank" rel="noopener noreferrer" class="btn default" role="button" aria-label="Falar pelo WhatsApp">
               <div class="front">Fale Conosco</div>
             </a>
             <a href="#bloco-one" class="btn secondary" style="padding:12px 24px;border-radius:6px;display:inline-flex;align-items:center;">
@@ -635,7 +694,7 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-center mb-4">
-        <h1 class="titulo">Nossa essência</h1>
+        <h2 class="titulo">Nossa essência</h2>
       </div>
       <div class="col-lg-4 col-sm-6 col-12 mb-4 mb-lg-0">
         <div class="box">
@@ -673,14 +732,14 @@
         <img
           src="assets/images/fernando-netto-consultor-ambiental-foto-perfil.webp"
           alt="Fernando César Ferreira Netto — Consultor e Técnico em Meio Ambiente, CRQ ES 212.000.239"
-          class="foto-perfil">
+          class="foto-perfil" width="600" height="800" loading="lazy">
       </div>
       <div class="col-lg-7 col-12">
         <div class="box">
           <div class="credencial-tag">
             <i class="bi bi-patch-check-fill"></i> CRQ ES 212.000.239
           </div>
-          <h1 class="titulo text-lg-start mb-4">Fernando César Ferreira Netto</h1>
+          <h2 class="titulo text-lg-start mb-4">Fernando César Ferreira Netto</h2>
           <p>Técnico em Meio Ambiente formado pelo <strong>IFES</strong>, Graduado em <strong>Gestão Ambiental</strong> e <strong>Ciências Biológicas</strong>, com Pós-Graduação em Gestão Ambiental e Saneamento Ambiental, e extensão pela <strong>UFRN</strong> em Gestão de Resíduos.</p>
           <p>Com trajetória iniciada em 2013, atuando profissionalmente desde 2015 e fundando a consultoria em <strong>2021</strong>, Fernando acumula mais de uma década de experiência em licenciamento, monitoramento e regularização de empreendimentos em todo o Espírito Santo.</p>
           <p>Nossa atuação tem como propósito fortalecer a Política Nacional do Meio Ambiente — garantindo que atividades, obras e empreendimentos sigam padrões responsáveis e sustentáveis.</p>
@@ -698,6 +757,165 @@
 </section>
 
 <!-- ============================================================
+     GALERIA — FERNANDO NETTO (PREMIUM)
+     ============================================================ -->
+<section id="OPS14" class="section anchor-holder" style="background: #1a2e1a;">
+  <div class="anchor" id="bloco-fernando-galeria"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 mb-2 text-center">
+        <span style="display:inline-block;background:rgba(162,193,117,.15);color:#A8E06A;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:1.5px;padding:6px 18px;border-radius:50px;margin-bottom:14px;">Galeria</span>
+        <h2 class="titulo mb-3" style="color: #fff; font-size: 32px; font-weight: 700;">O trabalho por trás dos resultados</h2>
+        <p style="color: rgba(255,255,255,.7); font-size: 15px; max-width: 560px; margin: 0 auto 36px;">Conheça de perto nossa rotina de vistorias, estudos e atendimento técnico em todo o Espírito Santo.</p>
+      </div>
+    </div>
+
+    <div class="galeria-premium">
+      <div class="gp-item gp-principal">
+        <img src="assets/images/fernando-netto-vistoria-tecnica-campo-ambiental.webp"
+          alt="Fernando Netto em vistoria técnica de campo — Fernando Consultoria Ambiental"
+          width="540" height="960" loading="lazy">
+        <div class="gp-overlay">
+          <span class="gp-tag">Vistoria de campo</span>
+          <h3>Atendimento técnico presencial</h3>
+        </div>
+      </div>
+
+      <div class="gp-item">
+        <img src="assets/images/fernando-netto-consultor-escritorio-computador.webp"
+          alt="Fernando Netto trabalhando no escritório — Fernando Consultoria Ambiental"
+          width="600" height="400" loading="lazy">
+        <div class="gp-overlay">
+          <span class="gp-tag">No escritório</span>
+          <h3>Planejamento e licenciamento</h3>
+        </div>
+      </div>
+
+      <div class="gp-item" style="grid-row: span 2;">
+        <img src="assets/images/fernando-netto-consultor-ambiental-escritorio-biblioteca.webp"
+          alt="Fernando Netto na biblioteca do escritório — Fernando Consultoria Ambiental"
+          width="600" height="800" loading="lazy">
+        <div class="gp-overlay">
+          <span class="gp-tag">Estudos e projetos</span>
+          <h3>Pesquisa e elaboração técnica</h3>
+        </div>
+      </div>
+
+
+      <div class="gp-item">
+        <img src="assets/images/fernando-netto-trabalhando-escritorio-biblioteca.webp"
+          alt="Fernando Netto trabalhando na biblioteca — Fernando Consultoria Ambiental"
+          width="600" height="400" loading="lazy">
+        <div class="gp-overlay">
+          <span class="gp-tag">Pesquisa ambiental</span>
+          <h3>Base científica para cada laudo</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .galeria-premium {
+    display: grid;
+    grid-template-columns: 1.35fr 1fr 1fr;
+    grid-template-rows: 228px 228px;
+    gap: 16px;
+  }
+
+  .galeria-premium .gp-item {
+    position: relative;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 14px 40px rgba(0,0,0,.35);
+    cursor: pointer;
+  }
+
+  .galeria-premium .gp-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform .6s cubic-bezier(.22, .61, .36, 1);
+    display: block;
+  }
+
+  .galeria-premium .gp-item:hover img {
+    transform: scale(1.06);
+  }
+
+  .galeria-premium .gp-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(10,25,10,.82) 0%, rgba(10,25,10,.25) 45%, transparent 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 22px 24px;
+    transition: background .3s ease;
+  }
+
+  .galeria-premium .gp-item:hover .gp-overlay {
+    background: linear-gradient(to top, rgba(10,25,10,.9) 0%, rgba(10,25,10,.4) 55%, transparent 100%);
+  }
+
+  .galeria-premium .gp-tag {
+    display: inline-block;
+    width: fit-content;
+    background: rgba(168,224,106,.18);
+    color: #A8E06A;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .8px;
+    padding: 5px 12px;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    border: 1px solid rgba(168,224,106,.25);
+  }
+
+  .galeria-premium .gp-overlay h3 {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0;
+    line-height: 1.35;
+  }
+
+  .galeria-premium .gp-principal {
+    grid-row: span 2;
+    aspect-ratio: 9 / 16;
+  }
+
+  @media (max-width: 991px) {
+    .galeria-premium {
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 280px 180px 180px;
+    }
+    .galeria-premium .gp-principal {
+      grid-column: span 2;
+      grid-row: span 1;
+    }
+  }
+
+  @media (max-width: 575px) {
+    .galeria-premium {
+      grid-template-columns: 1fr;
+      grid-template-rows: auto repeat(3, 200px);
+      gap: 12px;
+    }
+    .galeria-premium .gp-principal {
+      grid-column: span 1;
+    }
+    .galeria-premium .gp-overlay {
+      padding: 18px 20px;
+    }
+    .galeria-premium .gp-overlay h3 {
+      font-size: 14px;
+    }
+  }
+</style>
+
+<!-- ============================================================
      SERVIÇOS
      ============================================================ -->
 <section id="OPS5" class="section anchor-holder">
@@ -705,158 +923,283 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12">
-        <h1 class="titulo mb-4">
-          Serviços que oferecemos
-          <br>
-          <p class="text-center mt-2" style="font-size:15px;font-weight:400;color:#888;">
-            Soluções completas — da avaliação inicial ao licenciamento e monitoramento contínuo.
-          </p>
-        </h1>
+        <h2 class="titulo mb-2">Serviços que oferecemos</h2>
+        <p class="text-center mb-5" style="font-size:15px;font-weight:400;color:#888;">
+          Soluções completas — da avaliação inicial ao licenciamento e monitoramento contínuo.
+        </p>
       </div>
       <div class="col-12">
         <div class="slick-servicos">
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <img src="https://www.fernandoconsultoria.com.br/home-fotos/5/176478576469307e64094ba.png" alt="Licenciamento Ambiental" class="mb-2">
-              <h3><b>Licenciamento Ambiental (LP, LI, LO)</b><br><br>
-                Conduzimos todo o processo de licenciamento ambiental para atividades e obras, incluindo levantamento técnico, elaboração de estudos ambientais e acompanhamento junto aos órgãos competentes.
-              </h3>
+          <!-- 1 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-file-earmark-medical srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-file-earmark-check-fill"></i> Licenciamento</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Licenciamento Ambiental <span>(LP, LI, LO)</span></h3>
+                <p>Conduzimos todo o processo de licenciamento para atividades e obras, com acompanhamento junto aos órgãos competentes.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20Licenciamento%20Ambiental." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Licenciamento Ambiental">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <img src="https://www.fernandoconsultoria.com.br/home-fotos/5/176478576469307e640a9e6.png" alt="Monitoramento Ambiental" class="mb-2">
-              <h3><b>Monitoramento Ambiental</b><br><br>
-                Monitoramos parâmetros de qualidade do ar, água e níveis sonoros, gerando laudos e relatórios técnicos para atendimento de exigências legais.
-              </h3>
+          <!-- 2 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-activity srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-activity"></i> Monitoramento</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Monitoramento Ambiental</h3>
+                <p>Monitoramos qualidade do ar, água e níveis sonoros, gerando laudos e relatórios técnicos para exigências legais.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20Monitoramento%20Ambiental." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Monitoramento Ambiental">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <img src="https://www.fernandoconsultoria.com.br/home-fotos/5/176478576469307e640b429.png" alt="Laudos e Estudos Técnicos" class="mb-2">
-              <h3><b>Laudos e Estudos Técnicos</b><br><br>
-                Emissão de laudos técnicos (sonoro, movimentação de solo, hidrogeológico etc.) e estudos ambientais (RIMA, EIA, RAP).
-              </h3>
+          <!-- 3 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-clipboard2-pulse srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-clipboard2-data-fill"></i> Laudos</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Laudos e Estudos Técnicos</h3>
+                <p>Emissão de laudos técnicos (sonoro, solo, hidrogeológico) e estudos ambientais (RIMA, EIA, RAP).</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20Laudos%20e%20Estudos%20T%C3%A9cnicos." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Laudos">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <img src="https://www.fernandoconsultoria.com.br/home-fotos/5/176478590469307ef0ba8b0.png" alt="Auditoria Ambiental" class="mb-2">
-              <h3><b>Auditoria Ambiental</b><br><br>
-                Auditorias de conformidade ambiental e due diligence para compra, venda ou regularização de empreendimentos.
-              </h3>
+          <!-- 4 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-journal-check srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-search"></i> Auditoria</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Auditoria Ambiental</h3>
+                <p>Auditorias de conformidade ambiental e due diligence para compra, venda ou regularização de empreendimentos.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20Auditoria%20Ambiental." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Auditoria Ambiental">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <img src="https://www.fernandoconsultoria.com.br/home-fotos/5/176478590469307ef0bafaf.png" alt="Recuperação de Áreas Degradadas" class="mb-2">
-              <h3><b>Recuperação de Áreas Degradadas</b><br><br>
-                Projetos de restauração ecológica, seleção de espécies nativas e acompanhamento técnico de reflorestamento e recuperação.
-              </h3>
+          <!-- 5 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-flower2 srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-tree-fill"></i> Recuperação</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Recuperação de Áreas Degradadas</h3>
+                <p>Projetos de restauração ecológica, seleção de espécies nativas e acompanhamento técnico de reflorestamento.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20Recupera%C3%A7%C3%A3o%20de%20%C3%81reas%20Degradadas." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Recuperação de Áreas">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <img src="https://www.fernandoconsultoria.com.br/home-fotos/5/1764786969693083198e2d6.png" alt="CAR e Regularização Fundiária" class="mb-2">
-              <h3><b>CAR e Regularização Fundiária</b><br><br>
-                Elaboração e acompanhamento do Cadastro Ambiental Rural, além de assessoria para regularização fundiária com foco ambiental.
-              </h3>
+          <!-- 6 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-pin-map srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-geo-alt-fill"></i> CAR</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>CAR e Regularização Fundiária</h3>
+                <p>Elaboração e acompanhamento do Cadastro Ambiental Rural e assessoria para regularização fundiária ambiental.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20CAR%20e%20Regulariza%C3%A7%C3%A3o%20Fundi%C3%A1ria." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre CAR">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <img src="https://www.fernandoconsultoria.com.br/home-fotos/5/17647869696930831997f7c.png" alt="Fossa Séptica e Gestão de Efluentes" class="mb-2">
-              <h3><b>Fossa Séptica e Gestão de Efluentes</b><br><br>
-                Projetos e laudos para sistemas de tratamento e disposição de efluentes domésticos e industriais.
-              </h3>
+          <!-- 7 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-droplet-half srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-droplet-fill"></i> Efluentes</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Fossa Séptica e Efluentes</h3>
+                <p>Projetos e laudos para sistemas de tratamento e disposição de efluentes domésticos e industriais.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20Fossa%20S%C3%A9ptica%20e%20Efluentes." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Fossa Séptica">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <img src="https://www.fernandoconsultoria.com.br/home-fotos/5/176478957869308d4acf9e6.png" alt="Controle de Ruído" class="mb-2">
-              <h3><b>Controle de Ruído — Monitoramento Sonoro</b><br><br>
-                Medições e laudos de ruído para indústrias, comércios e eventos, com elaboração de plano de controle acústico.
-              </h3>
+          <!-- 8 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-ear-fill srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-soundwave"></i> Ruído</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Controle de Ruído — Monitoramento Sonoro</h3>
+                <p>Medições e laudos de ruído para indústrias, comércios e eventos, com plano de controle acústico.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20Controle%20de%20Ru%C3%ADdo." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Controle de Ruído">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <img src="https://www.fernandoconsultoria.com.br/images/webp/1.webp" alt="Jardinagem e Manejo Arbóreo" class="mb-2">
-              <h3><b>Jardinagem, Podas e Manejo Arbóreo</b><br><br>
-                Laudos e projetos para podas, supressão e manejo de árvores, com acompanhamento técnico e mitigação ambiental.
-              </h3>
+          <!-- 9 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-scissors srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-scissors"></i> Jardinagem</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Jardinagem, Podas e Manejo Arbóreo</h3>
+                <p>Laudos e projetos para podas, supressão e manejo de árvores, com acompanhamento técnico e mitigação ambiental.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20Jardinagem%20e%20Manejo%20Arb%C3%B3reo." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Jardinagem">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <img src="https://www.fernandoconsultoria.com.br/images/webp/2.webp" alt="Projetos Urbanísticos e Loteamentos" class="mb-2">
-              <h3><b>Projetos Urbanísticos e Loteamentos</b><br><br>
-                Estudos ambientais para loteamentos, implantação de infraestrutura e recuperação de áreas impactadas.
-              </h3>
+          <!-- 10 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-houses-fill srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-building-fill"></i> Urbanismo</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Projetos Urbanísticos e Loteamentos</h3>
+                <p>Estudos ambientais para loteamentos, implantação de infraestrutura e recuperação de áreas impactadas.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20Projetos%20Urban%C3%ADsticos." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Projetos Urbanísticos">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <img src="https://www.fernandoconsultoria.com.br/images/webp/3.webp" alt="Segurança do Trabalho" class="mb-2">
-              <h3><b>Segurança do Trabalho</b><br><br>
-                Integração entre práticas de segurança do trabalho e requisitos ambientais para redução de riscos ocupacionais.
-              </h3>
+          <!-- 11 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-shield-check srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-shield-fill-check"></i> Segurança</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Segurança do Trabalho</h3>
+                <p>Integração entre práticas de segurança do trabalho e requisitos ambientais para redução de riscos ocupacionais.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20Seguran%C3%A7a%20do%20Trabalho." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Segurança do Trabalho">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <img src="https://www.fernandoconsultoria.com.br/images/webp/4.webp" alt="Palestras e Educação Ambiental" class="mb-2">
-              <h3><b>Palestras e Educação Ambiental</b><br><br>
-                Programas, cursos e palestras personalizadas para empresas, escolas e comunidades sobre boas práticas ambientais.
-              </h3>
+          <!-- 12 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-megaphone srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-mortarboard-fill"></i> Educação</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Palestras e Educação Ambiental</h3>
+                <p>Programas, cursos e palestras personalizadas para empresas, escolas e comunidades sobre boas práticas ambientais.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20Palestras%20e%20Educa%C3%A7%C3%A3o%20Ambiental." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Palestras">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <img src="https://www.fernandoconsultoria.com.br/images/webp/5.webp" alt="Serviços para Oficinas, Postos e Ferro-Velho" class="mb-2">
-              <h3><b>Oficinas, Postos, Serrarias, Ferro-Velho</b><br><br>
-                Licenciamento e gestão ambiental para segmentos de maior impacto: oficinas, lanternagem, lavadores, ferro-velho, serralheria, marmoraria e postos de combustível.
-              </h3>
+          <!-- 13 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-wrench-adjustable srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-wrench-adjustable"></i> Oficinas</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Oficinas, Postos, Serrarias, Ferro-Velho</h3>
+                <p>Licenciamento e gestão ambiental para segmentos de maior impacto: oficinas, lava-jatos, ferro-velho e postos.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20licenciamento%20para%20Oficinas%20e%20Postos." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Oficinas e Postos">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <i class="bi bi-recycle mb-2" style="font-size:60px;color:#7CBC65;"></i>
-              <h3><b>Gestão de Resíduos e Saneamento Ambiental</b><br><br>
-                Planos de gestão de resíduos sólidos, controle de lixiviados e estações de tratamento de esgoto, água e resíduos industriais.
-              </h3>
+          <!-- 14 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-recycle srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-recycle"></i> Resíduos</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Gestão de Resíduos e Saneamento</h3>
+                <p>Planos de gestão de resíduos sólidos, controle de lixiviados e estações de tratamento de água e resíduos industriais.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20Gest%C3%A3o%20de%20Res%C3%ADduos." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Gestão de Resíduos">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <i class="bi bi-broadcast-pin mb-2" style="font-size:60px;color:#7CBC65;"></i>
-              <h3><b>Licenças para Antenas e Telecomunicações</b><br><br>
-                Licenciamento ambiental para instalação de antenas de TV, telefonia e internet, com laudos técnicos e acompanhamento junto aos órgãos competentes.
-              </h3>
+          <!-- 15 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-broadcast-pin srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-broadcast-pin"></i> Antenas</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Licenças para Antenas e Telecomunicações</h3>
+                <p>Licenciamento ambiental para instalação de antenas de TV, telefonia e internet, com laudos técnicos.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20licenciamento%20para%20Antenas." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Licenças para Antenas">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-sm-6 col-12">
-            <div class="conteudo text-center">
-              <i class="bi bi-building mb-2" style="font-size:60px;color:#7CBC65;"></i>
-              <h3><b>Licenças para Indústrias e Cerâmicas</b><br><br>
-                Regularização ambiental para fábricas de cerâmica, olaria, tornearia, usinas de reciclagem e locais de transbordo e aterro sanitário.
-              </h3>
+          <!-- 16 -->
+          <div class="srv-card-wrap">
+            <div class="srv-card">
+              <div class="srv-card-img">
+                <i class="bi bi-buildings srv-icon"></i>
+                <span class="srv-card-tag"><i class="bi bi-building"></i> Indústrias</span>
+              </div>
+              <div class="srv-card-body">
+                <h3>Licenças para Indústrias e Cerâmicas</h3>
+                <p>Regularização ambiental para fábricas de cerâmica, olaria, tornearia, usinas de reciclagem e aterros sanitários.</p>
+                <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20sobre%20licenciamento%20para%20Ind%C3%BAstrias." target="_blank" rel="noopener noreferrer" class="srv-card-btn" role="button" aria-label="Saber mais sobre Licenças para Indústrias">
+                  <i class="bi bi-whatsapp"></i> Saber mais
+                </a>
+              </div>
             </div>
           </div>
 
@@ -866,6 +1209,8 @@
   </div>
 </section>
 
+
+
 <!-- ============================================================
      LICENÇAS POR ATIVIDADE
      ============================================================ -->
@@ -874,14 +1219,63 @@
   <div class="container">
     <div class="row text-lg-start text-center">
       <div class="col-12">
-        <h1 class="titulo mb-3">Licenças ambientais por atividade</h1>
+        <h2 class="titulo mb-3">Licenças ambientais por atividade</h2>
       </div>
-      <div class="col-lg-5 col-12 mb-4 mb-lg-0 text-center">
-        <img
-          src="assets/images/fernando-netto-vistoria-tecnica-obra-ambiental.webp"
-          alt="Consultores ambientais em vistoria técnica — auditoria e licenciamento ambiental, Fernando Consultoria ES"
-          class="img-fluid" style="border-radius:12px;max-height:520px;object-fit:cover;width:100%;box-shadow:0 8px 30px rgba(0,0,0,.12);">
+      <div class="col-lg-5 col-12 mb-4 mb-lg-0">
+        <div class="ops8-visual-card">
+          <div class="ops8-card-header">
+            <i class="bi bi-shield-check-fill"></i>
+            <span>Segmentos que Regularizamos</span>
+          </div>
+          <div class="ops8-card-grid">
+            <div class="ops8-card-item">
+              <i class="bi bi-wrench-adjustable"></i>
+              <span>Oficinas &amp; Lava-Jatos</span>
+            </div>
+            <div class="ops8-card-item">
+              <i class="bi bi-recycle"></i>
+              <span>Ferro-Velho &amp; Reciclagem</span>
+            </div>
+            <div class="ops8-card-item">
+              <i class="bi bi-building-fill"></i>
+              <span>Loteamentos &amp; Obras</span>
+            </div>
+            <div class="ops8-card-item">
+              <i class="bi bi-tree-fill"></i>
+              <span>Reflorestamento &amp; CAR</span>
+            </div>
+            <div class="ops8-card-item">
+              <i class="bi bi-scissors"></i>
+              <span>Serralheria &amp; Marmoraria</span>
+            </div>
+            <div class="ops8-card-item">
+              <i class="bi bi-fuel-pump-fill"></i>
+              <span>Postos de Combustível</span>
+            </div>
+            <div class="ops8-card-item">
+              <i class="bi bi-broadcast-pin"></i>
+              <span>Antenas &amp; Telecomunicações</span>
+            </div>
+            <div class="ops8-card-item">
+              <i class="bi bi-droplet-fill"></i>
+              <span>ETE &amp; Fossa Séptica</span>
+            </div>
+            <div class="ops8-card-item">
+              <i class="bi bi-geo-alt-fill"></i>
+              <span>Cemitérios &amp; Aterros</span>
+            </div>
+            <div class="ops8-card-item">
+              <i class="bi bi-buildings"></i>
+              <span>Indústrias &amp; Cerâmicas</span>
+            </div>
+          </div>
+          <div class="ops8-card-footer">
+            <i class="bi bi-patch-check-fill"></i>
+            CRQ ES 212.000.239 — Atuação em todo o Espírito Santo
+          </div>
+        </div>
       </div>
+
       <div class="col-lg-7 col-12">
         <div class="text">
           <p class="mb-3">
@@ -896,10 +1290,11 @@
             <b><i class="bi bi-check-circle"></i> Aterro sanitário / Cemitério / ETE:</b> Estudos técnicos, controle de gases, lixiviados e monitoramento exigido por órgãos ambientais.<br><br>
             <b><i class="bi bi-check-circle"></i> Fossa séptica:</b> Projetos, relatórios e recomendações para implantação e manutenção.<br><br>
             <b><i class="bi bi-check-circle"></i> CAR / Regularização fundiária:</b> Diagnóstico, georreferenciamento e adequação ambiental.<br><br>
-            <b><i class="bi bi-check-circle"></i> Antenas / Telecomunicações / Indústrias:</b> Licenciamento ambiental completo para instalação e operação.
+            <b><i class="bi bi-check-circle"></i> Antenas e Telecomunicações:</b> Licenciamento ambiental completo para instalação e operação de torres e infraestrutura.<br><br>
+            <b><i class="bi bi-check-circle"></i> Indústrias e Cerâmicas:</b> Regularização completa para fábricas, olarias, tornearias, usinas e aterros sanitários.
           </p>
           <div class="d-flex justify-content-center justify-content-lg-start mt-4">
-            <a href="https://wa.me/5528974007902" target="_blank" class="btn default">
+            <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20site%20e%20gostaria%20de%20saber%20sobre%20Licenciamento%20Ambiental." target="_blank" rel="noopener noreferrer" class="btn default" role="button" aria-label="Agendar Visita Técnica pelo WhatsApp">
               <div class="front"><i class="bi bi-whatsapp me-2"></i>Agendar Visita Técnica</div>
             </a>
           </div>
@@ -917,13 +1312,13 @@
   <div class="container">
     <div class="row">
       <div class="col-12 mb-4">
-        <h1 class="titulo">Galeria de Fotos</h1>
+        <h2 class="titulo">Galeria de Fotos</h2>
       </div>
 
       <div class="col-lg-3 col-md-6 col-12 px-1 mb-3">
         <div class="box d-flex">
           <img src="assets/images/area-verde-lago-recuperacao-ambiental-es.webp"
-            alt="Área verde com lago — recuperação ambiental, Fernando Consultoria ES" class="w-100">
+            alt="Área verde com lago — recuperação ambiental, Fernando Consultoria ES" class="w-100" width="600" height="400" loading="lazy">
           <div class="overlay d-flex align-items-end">
             <div class="text"><h2>Área de Recuperação</h2></div>
           </div>
@@ -933,7 +1328,7 @@
       <div class="col-lg-3 col-md-6 col-12 px-1 mb-3">
         <div class="box d-flex">
           <img src="assets/images/mudas-arvores-viveiro-reflorestamento-es.webp"
-            alt="Mudas de árvores em viveiro — reflorestamento, Fernando Consultoria Ambiental" class="w-100">
+            alt="Mudas de árvores em viveiro — reflorestamento, Fernando Consultoria Ambiental" class="w-100" width="600" height="400" loading="lazy">
           <div class="overlay d-flex align-items-end">
             <div class="text"><h2>Viveiro de Mudas</h2></div>
           </div>
@@ -943,7 +1338,7 @@
       <div class="col-lg-3 col-md-6 col-12 px-1 mb-3">
         <div class="box d-flex">
           <img src="assets/images/lago-rural-monitoramento-hidrico-ambiental.webp"
-            alt="Lago rural — monitoramento hídrico ambiental, Fernando Consultoria ES" class="w-100">
+            alt="Lago rural — monitoramento hídrico ambiental, Fernando Consultoria ES" class="w-100" width="600" height="400" loading="lazy">
           <div class="overlay d-flex align-items-end">
             <div class="text"><h2>Monitoramento Hídrico</h2></div>
           </div>
@@ -953,7 +1348,7 @@
       <div class="col-lg-3 col-md-6 col-12 px-1 mb-3">
         <div class="box d-flex">
           <img src="assets/images/espada-sao-jorge-plantas-jardinagem-manejo.webp"
-            alt="Plantas ornamentais — jardinagem e manejo arbóreo, Fernando Consultoria Ambiental" class="w-100">
+            alt="Plantas ornamentais — jardinagem e manejo arbóreo, Fernando Consultoria Ambiental" class="w-100" width="600" height="400" loading="lazy">
           <div class="overlay d-flex align-items-end">
             <div class="text"><h2>Jardinagem e Manejo</h2></div>
           </div>
@@ -963,7 +1358,7 @@
       <div class="col-lg-3 col-md-6 col-12 px-1 mb-3">
         <div class="box d-flex">
           <img src="assets/images/flores-vermelhas-jardim-manejo-arboreo.webp"
-            alt="Flores vermelhas em jardim — paisagismo e manejo arbóreo, Fernando Consultoria ES" class="w-100">
+            alt="Flores vermelhas em jardim — paisagismo e manejo arbóreo, Fernando Consultoria ES" class="w-100" width="600" height="400" loading="lazy">
           <div class="overlay d-flex align-items-end">
             <div class="text"><h2>Paisagismo</h2></div>
           </div>
@@ -973,7 +1368,7 @@
       <div class="col-lg-3 col-md-6 col-12 px-1 mb-3">
         <div class="box d-flex">
           <img src="assets/images/jardinagem-mudas-plantas-ornamentais-vaso.webp"
-            alt="Mudas em vasos — jardinagem e plantas ornamentais, Fernando Consultoria Ambiental" class="w-100">
+            alt="Mudas em vasos — jardinagem e plantas ornamentais, Fernando Consultoria Ambiental" class="w-100" width="600" height="400" loading="lazy">
           <div class="overlay d-flex align-items-end">
             <div class="text"><h2>Plantas Ornamentais</h2></div>
           </div>
@@ -983,7 +1378,7 @@
       <div class="col-lg-3 col-md-6 col-12 px-1 mb-3">
         <div class="box d-flex">
           <img src="assets/images/monitoramento-rio-cachoeira-area-degradada.webp"
-            alt="Rio em área de campo — monitoramento hídrico, Fernando Consultoria Ambiental" class="w-100">
+            alt="Rio em área de campo — monitoramento hídrico, Fernando Consultoria Ambiental" class="w-100" width="600" height="400" loading="lazy">
           <div class="overlay d-flex align-items-end">
             <div class="text"><h2>Vistoria de Campo</h2></div>
           </div>
@@ -993,7 +1388,7 @@
       <div class="col-lg-3 col-md-6 col-12 px-1 mb-3">
         <div class="box d-flex">
           <img src="assets/images/fauna-nativa-onca-pintada-meio-ambiente.webp"
-            alt="Fauna nativa — preservação ambiental, Fernando Consultoria Ambiental ES" class="w-100">
+            alt="Fauna nativa — preservação ambiental, Fernando Consultoria Ambiental ES" class="w-100" width="600" height="400" loading="lazy">
           <div class="overlay d-flex align-items-end">
             <div class="text"><h2>Fauna Nativa</h2></div>
           </div>
@@ -1012,9 +1407,9 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-11 col-12 mb-4">
-        <h1 class="titulo mb-3">
+        <h2 class="titulo mb-3">
           Nosso processo — simples, técnico e transparente
-        </h1>
+        </h2>
       </div>
       <div class="col-lg-2 col-md-6 col-12 mb-4">
         <div class="box">
@@ -1068,7 +1463,7 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12">
-        <h1 class="titulo">FAQ — Perguntas frequentes</h1>
+        <h2 class="titulo">FAQ — Perguntas frequentes</h2>
       </div>
       <div class="col-lg-8 col-12 mt-4">
 
@@ -1156,7 +1551,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1 class="titulo mb-4">O que nossos clientes dizem</h1>
+        <h2 class="titulo mb-4">O que nossos clientes dizem</h2>
         <div class="slick-reviews">
 
           <div class="depoimento d-flex">
@@ -1194,20 +1589,75 @@
 </section>
 
 <!-- ============================================================
-     NEWSLETTER
+     CTA FORMULÁRIO / CONVERSÃO WHATSAPP
      ============================================================ -->
-<section id="news" class="p-4">
-  <div class="container">
-    <div class="row align-items-center justify-content-center">
-      <div class="col-12 mb-4 mb-lg-0">
-        <div class="row align-items-center justify-content-center">
-          <div class="col-lg-6 col-12 mb-2 mb-lg-0 text-center">
-            <p class="mb-0">RECEBA NOVIDADES AMBIENTAIS — INSCREVA-SE</p>
-          </div>
-          <div class="col-lg-4 col-12">
-            <div class="input-group">
-              <input type="email" class="form-control" placeholder="Digite seu e-mail">
-              <button type="button" class="btn default">Enviar</button>
+<section id="news" class="section anchor-holder" style="position: relative; background: url('assets/images/floresta-nativa-reflorestamento-mata-atlantica.webp') center center / cover no-repeat;">
+  <div class="anchor" id="novidades"></div>
+  <div style="position: absolute; inset: 0; background: rgba(10,35,10,.78);"></div>
+  <div class="container" style="position: relative; z-index: 1;">
+    <div class="row justify-content-center">
+      <div class="col-lg-10 col-12">
+        <div class="cta-box" style="background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.12); border-radius: 16px; padding: 48px 40px; color: #fff; box-shadow: 0 12px 40px rgba(0,0,0,.25); backdrop-filter: blur(4px);">
+          <div class="row align-items-center">
+            <div class="col-lg-6 col-12 mb-4 mb-lg-0">
+              <h2 style="font-size: 26px; font-weight: 700; margin-bottom: 12px; line-height: 1.3;">
+                <i class="bi bi-whatsapp" style="color: #A8E06A; margin-right: 10px;"></i>
+                Solicite seu orçamento gratuito
+              </h2>
+              <p style="font-size: 15px; color: rgba(255,255,255,.92); line-height: 1.6; margin-bottom: 16px;">
+                Preencha o formulário e fale diretamente com um especialista. Atendemos em todo o Espírito Santo com agilidade e responsabilidade técnica.
+              </p>
+              <ul style="list-style: none; padding: 0; margin: 0; font-size: 14px; color: rgba(255,255,255,.9);">
+                <li style="margin-bottom: 8px;"><i class="bi bi-check-circle-fill" style="color: #A8E06A; margin-right: 8px;"></i> Diagnóstico inicial sem compromisso</li>
+                <li style="margin-bottom: 8px;"><i class="bi bi-check-circle-fill" style="color: #A8E06A; margin-right: 8px;"></i> Resposta em até 24h úteis</li>
+                <li><i class="bi bi-check-circle-fill" style="color: #A8E06A; margin-right: 8px;"></i> Atendimento presencial e remoto em todo o ES</li>
+              </ul>
+            </div>
+            <div class="col-lg-6 col-12">
+              <form id="form-cta-whatsapp" action="#" method="POST" style="background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.15); border-radius: 12px; padding: 28px;">
+                <div class="mb-3">
+                  <label for="cta-nome" class="form-label" style="font-size: 13px; font-weight: 500; color: rgba(255,255,255,.9);">Nome completo</label>
+                  <input type="text" id="cta-nome" name="nome" class="form-control" placeholder="Seu nome" required style="background: rgba(255,255,255,.95); border: none; border-radius: 8px; padding: 12px 14px; font-size: 14px; color: #333;">
+                </div>
+                <div class="mb-3">
+                  <label for="cta-email" class="form-label" style="font-size: 13px; font-weight: 500; color: rgba(255,255,255,.9);">E-mail</label>
+                  <input type="email" id="cta-email" name="email" class="form-control" placeholder="seu@email.com" required style="background: rgba(255,255,255,.95); border: none; border-radius: 8px; padding: 12px 14px; font-size: 14px; color: #333;">
+                </div>
+                <div class="mb-3">
+                  <label for="cta-telefone" class="form-label" style="font-size: 13px; font-weight: 500; color: rgba(255,255,255,.9);">WhatsApp</label>
+                  <input type="tel" id="cta-telefone" name="telefone" class="form-control" placeholder="(28) 99999-9999" required maxlength="15" style="background: rgba(255,255,255,.95); border: none; border-radius: 8px; padding: 12px 14px; font-size: 14px; color: #333;">
+                </div>
+                <div class="mb-3">
+                  <label for="cta-assunto" class="form-label" style="font-size: 13px; font-weight: 500; color: rgba(255,255,255,.9);">Como podemos ajudar?</label>
+                  <select id="cta-assunto" name="assunto" class="form-select" required style="background: rgba(255,255,255,.95); border: none; border-radius: 8px; padding: 12px 14px; font-size: 14px; color: #333;">
+                    <option value="" disabled selected>Selecione um serviço</option>
+                    <option value="Licenciamento Ambiental">Licenciamento Ambiental</option>
+                    <option value="Monitoramento Ambiental">Monitoramento Ambiental</option>
+                    <option value="Laudos e Estudos Técnicos">Laudos e Estudos Técnicos</option>
+                    <option value="Auditoria Ambiental">Auditoria Ambiental</option>
+                    <option value="Recuperação de Áreas Degradadas">Recuperação de Áreas Degradadas</option>
+                    <option value="CAR e Regularização Fundiária">CAR e Regularização Fundiária</option>
+                    <option value="Fossa Séptica e Gestão de Efluentes">Fossa Séptica e Gestão de Efluentes</option>
+                    <option value="Controle de Ruído / Monitoramento Sonoro">Controle de Ruído / Monitoramento Sonoro</option>
+                    <option value="Jardinagem, Podas e Manejo Arbóreo">Jardinagem, Podas e Manejo Arbóreo</option>
+                    <option value="Projetos Urbanísticos e Loteamentos">Projetos Urbanísticos e Loteamentos</option>
+                    <option value="Segurança do Trabalho">Segurança do Trabalho</option>
+                    <option value="Palestras e Educação Ambiental">Palestras e Educação Ambiental</option>
+                    <option value="Oficinas, Postos, Serrarias, Ferro-Velho">Oficinas, Postos, Serrarias, Ferro-Velho</option>
+                    <option value="Gestão de Resíduos e Saneamento Ambiental">Gestão de Resíduos e Saneamento Ambiental</option>
+                    <option value="Licenças para Antenas e Telecomunicações">Licenças para Antenas e Telecomunicações</option>
+                    <option value="Licenças para Indústrias e Cerâmicas">Licenças para Indústrias e Cerâmicas</option>
+                    <option value="Outro assunto">Outro assunto</option>
+                  </select>
+                </div>
+                <div class="mb-3">
+                  <label for="cta-mensagem" class="form-label" style="font-size: 13px; font-weight: 500; color: rgba(255,255,255,.9);">Mensagem <span style="font-weight: 400; color: rgba(255,255,255,.7);">(opcional)</span></label>
+                  <textarea id="cta-mensagem" name="mensagem" class="form-control" rows="3" placeholder="Conte um pouco sobre sua necessidade..." style="background: rgba(255,255,255,.95); border: none; border-radius: 8px; padding: 12px 14px; font-size: 14px; color: #333; resize: none;"></textarea>
+                </div>
+                <button type="submit" class="btn default w-100" style="border: none; font-weight: 600; padding: 14px;">
+                  <div class="front"><i class="bi bi-whatsapp me-2"></i>Falar no WhatsApp</div>
+                </button>
+              </form>
             </div>
           </div>
         </div>
@@ -1223,13 +1673,13 @@
   <div class="container">
     <div class="row align-items-center justify-content-center">
       <div class="col-12 mb-4 text-center">
-        <h1 class="titulo">Nossa localização</h1>
+        <h2 class="titulo">Nossa localização</h2>
       </div>
       <div class="col-lg-5 col-12 mb-4 mb-lg-0 text-center">
         <img
           src="assets/images/fachada-frente-fernando-solucoes-ambientais.webp"
           alt="Fachada Fernando Soluções Ambientais — Rua Agliberto Rodrigues Moreira 205, Cachoeiro de Itapemirim ES"
-          class="fachada-img">
+          class="fachada-img" width="800" height="600" loading="lazy">
       </div>
       <div class="col-lg-5 col-12">
         <h2 class="titulo text-lg-start mb-3" style="font-size:20px;">Fernando Consultoria Ambiental</h2>
@@ -1238,19 +1688,19 @@
           <strong>Endereço:</strong> Rua Agliberto Rodrigues Moreira, 205 — Alto Amarelo<br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cachoeiro de Itapemirim — ES, CEP 29304-370<br><br>
           <i class="bi bi-phone-fill" style="color:#517A42;"></i>
-          <strong>WhatsApp:</strong> <a href="tel:5528974007902">28 97400-7902</a><br>
+          <strong>WhatsApp:</strong> <a href="tel:5528974007902" aria-label="Ligar para WhatsApp 28 97400-7902">28 97400-7902</a><br>
           <i class="bi bi-telephone-fill" style="color:#517A42;"></i>
-          <strong>Fixo:</strong> <a href="tel:552835115868">28 3511-5868</a><br>
+          <strong>Fixo:</strong> <a href="tel:552835115868" aria-label="Ligar para fixo 28 3511-5868">28 3511-5868</a><br>
           <i class="bi bi-phone-fill" style="color:#517A42;"></i>
-          <strong>WhatsApp 2:</strong> <a href="tel:5528999028847">28 99902-8847</a><br>
+          <strong>WhatsApp 2:</strong> <a href="tel:5528999028847" aria-label="Ligar para WhatsApp 28 99902-8847">28 99902-8847</a><br>
           <i class="bi bi-envelope-fill" style="color:#517A42;"></i>
-          <strong>E-mail:</strong> <a href="mailto:fernandocesarnetto@gmail.com">fernandocesarnetto@gmail.com</a><br><br>
+          <strong>E-mail:</strong> <a href="mailto:fernandocesarnetto@gmail.com" aria-label="Enviar e-mail">fernandocesarnetto@gmail.com</a><br><br>
           <i class="bi bi-clock-fill" style="color:#517A42;"></i>
           <strong>Horário:</strong> Segunda a Sábado — 09h às 22h<br>
           <i class="bi bi-globe" style="color:#517A42;"></i>
-          <strong>Site:</strong> <a href="https://www.fernandoconsultoria.com.br" target="_blank">www.fernandoconsultoria.com.br</a>
+          <strong>Site:</strong> <a href="https://www.fernandoconsultoria.com.br" target="_blank" rel="noopener noreferrer">www.fernandoconsultoria.com.br</a>
         </p>
-        <a href="https://wa.me/5528974007902" target="_blank" class="btn default mt-2">
+        <a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20site%20e%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o." target="_blank" rel="noopener noreferrer" class="btn default mt-2" role="button" aria-label="Falar pelo WhatsApp">
           <div class="front"><i class="bi bi-whatsapp me-2"></i>Falar pelo WhatsApp</div>
         </a>
       </div>
@@ -1266,16 +1716,16 @@
   <div class="container">
     <div class="row text-lg-start">
       <div class="col-12 mb-4">
-        <h1 class="titulo">Fale com a Fernando Consultoria Ambiental</h1>
+        <h2 class="titulo">Fale com a Fernando Consultoria Ambiental</h2>
       </div>
       <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
         <h2>Canais de Atendimento</h2>
         <p class="mb-1">
-          <i class="bi-whatsapp"></i> <a href="tel:5528974007902">28 97400-7902</a><br>
-          <i class="bi-telephone"></i> <a href="tel:552835115868">28 3511-5868</a><br>
-          <i class="bi-whatsapp"></i> <a href="tel:5528999028847">28 99902-8847</a>
+          <i class="bi-whatsapp"></i> <a href="tel:5528974007902" aria-label="Ligar para WhatsApp 28 97400-7902">28 97400-7902</a><br>
+          <i class="bi-telephone"></i> <a href="tel:552835115868" aria-label="Ligar para fixo 28 3511-5868">28 3511-5868</a><br>
+          <i class="bi-whatsapp"></i> <a href="tel:5528999028847" aria-label="Ligar para WhatsApp 28 99902-8847">28 99902-8847</a>
         </p>
-        <p><a href="mailto:fernandocesarnetto@gmail.com"><i class="bi-envelope"></i> fernandocesarnetto@gmail.com</a></p>
+        <p><a href="mailto:fernandocesarnetto@gmail.com" aria-label="Enviar e-mail"><i class="bi-envelope"></i> fernandocesarnetto@gmail.com</a></p>
       </div>
       <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
         <h2>Horário:</h2>
@@ -1291,47 +1741,55 @@
       <div class="col-lg-2 col-md-6 col-12 text-center">
         <h2>Redes Sociais</h2>
         <div class="d-flex social justify-content-center align-items-center">
-          <a target="_blank" href="https://www.instagram.com/fernandocesarferreiranetto" title="Instagram"><i class="bi-instagram"></i></a>
-          <a target="_blank" href="https://www.facebook.com/fernandocesar.ferreiranetto/" title="Facebook"><i class="bi-facebook"></i></a>
-          <a target="_blank" href="https://br.linkedin.com/in/fernando-cesar-ferreira-netto-058095103" title="LinkedIn"><i class="bi-linkedin"></i></a>
+          <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/fernandocesarferreiranetto" title="Instagram" aria-label="Instagram"><i class="bi-instagram"></i></a>
+          <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/fernandocesar.ferreiranetto/" title="Facebook" aria-label="Facebook"><i class="bi-facebook"></i></a>
+          <a target="_blank" rel="noopener noreferrer" href="https://br.linkedin.com/in/fernando-cesar-ferreira-netto-058095103" title="LinkedIn" aria-label="LinkedIn"><i class="bi-linkedin"></i></a>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- FOOTER -->
+<!-- FOOTER — Padrão AG5 Seção de Créditos -->
 <footer>
   <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <p class="text-center">Copyright © 2026. Desenvolvido pelo <a href="https://www.opsempresas.com.br" target="_blank">OPS</a> | Todos os direitos reservados.</p>
-        <div class="text-center" style="margin-top:6px;font-size:11px;opacity:0.7;">
-          <a href="/termos-e-condicoes.html" style="text-decoration:none;color:inherit;transition:opacity 0.2s ease;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='1'">Termos e Condições</a>
-          <span style="margin:0 8px;">|</span>
-          <a href="/politica-de-privacidade.html" style="text-decoration:none;color:inherit;transition:opacity 0.2s ease;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='1'">Política de Privacidade</a>
-          <span style="margin:0 8px;">|</span>
-          <a href="#" id="ck-prefs-link" style="text-decoration:none; color:inherit; display:inline-flex; align-items:center; gap:6px;">
-            <span style="display:inline-flex; align-items:center; width:28px; height:14px; background:rgba(0,0,0,0.05); border-radius:10px; padding:2px; border:1px solid rgba(0,0,0,0.1); position:relative; font-size:8px; font-weight:bold;">
-              <span style="color:#22c55e; margin-left:2px;">✓</span>
-              <span style="color:#ef4444; margin-left:auto; margin-right:2px;">✕</span>
-              <span style="position:absolute; left:15px; width:10px; height:10px; background:var(--ck-accent); border-radius:50%; box-shadow:0 0 5px rgba(0,0,0,0.2);"></span>
+    <div class="footer-bottom">
+
+      <!-- Lado Esquerdo: Copyright + Links Legais -->
+      <div class="footer-credits-left">
+        <span class="footer-copyright">© 2026 Fernando Consultoria Ambiental</span>
+        <div class="footer-legal-links">
+          <a href="#" id="ck-prefs-link" style="text-decoration:none; color:inherit; display:inline-flex; align-items:center; gap:6px; font-size:0.75rem; color:rgba(255,255,255,0.6);">
+            <span id="cookie-toggle" style="display:inline-flex; align-items:center; width:28px; height:14px; background:rgba(255,255,255,0.1); border-radius:10px; padding:2px; border:1px solid rgba(255,255,255,0.2); position:relative; font-size:8px; font-weight:bold;">
+              <span style="color:#86EFAC; margin-left:2px;">✓</span>
+              <span style="color:#FCA5A5; margin-left:auto; margin-right:2px;">✕</span>
+              <span id="cookie-toggle-dot" style="position:absolute; left:15px; width:10px; height:10px; background:#A2C175; border-radius:50%; box-shadow:0 0 5px rgba(0,0,0,0.3); transition:left 0.2s ease;"></span>
             </span>
             Cookie
           </a>
-
+          <span class="footer-legal-sep">|</span>
+          <a href="termos-e-condicoes.html">Termos e Condições</a>
+          <span class="footer-legal-sep">|</span>
+          <a href="politica-de-privacidade.html">Política de Privacidade</a>
         </div>
       </div>
+
+      <!-- Lado Direito: Crédito da Agência -->
+      <div class="footer-credits-right">
+        Desenvolvido por <a href="https://www.ag5agencia.com.br" target="_blank" rel="noopener noreferrer" class="footer-agency-link">AG5 Agência</a>
+      </div>
+
     </div>
   </div>
 </footer>
 
-<!-- WhatsApp Flutuante -->
-<div class="whatsapp">
-  <a target="_blank" href="https://wa.me/5528974007902" title="Fale conosco pelo WhatsApp">
-    <img src="https://www.fernandoconsultoria.com.br/images/webp/whatsapp.webp" alt="WhatsApp — Fernando Consultoria Ambiental">
-  </a>
-</div>
+
+<!-- Botão Flutuante WhatsApp (AG5 Standard) -->
+<a href="https://wa.me/5528974007902?text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20site%20e%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o." class="btn-flutuante-whatsapp" target="_blank" rel="noopener noreferrer" role="button" aria-label="Falar pelo WhatsApp">
+  <svg viewBox="0 0 16 16" width="30" height="30" fill="currentColor">
+    <path d="M13.601 2.326A7.85 7.85 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.9 7.9 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.9 7.9 0 0 0 13.6 2.326zM7.994 14.521a6.6 6.6 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.56 6.56 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592m3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.73.73 0 0 0-.529.247c-.182.198-.691.677-.691 1.654s.71 1.916.81 2.049c.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232"/>
+  </svg>
+</a>
 
 <!-- ========== COOKIE BANNER AG5 ========== -->
 <div id="ck-banner" class="ck-banner" role="dialog" aria-modal="true" aria-label="Aviso de cookies" aria-live="polite" aria-hidden="true">
@@ -1410,11 +1868,280 @@
 
 
 <!-- JavaScript locais -->
-<script src="assets/js/jquery.js"></script>
-<script src="assets/js/bootstrap.bundle.min.js"></script>
-<script src="assets/js/lightbox.js"></script>
-<script src="assets/js/slick.min.js"></script>
-<script src="assets/js/framework.js"></script>
+<script src="assets/js/jquery.js" defer></script>
+<script src="assets/js/bootstrap.bundle.min.js" defer></script>
+<script src="assets/js/lightbox.js" defer></script>
+<script src="assets/js/slick.min.js" defer></script>
+<script src="assets/js/framework.js" defer></script>
+
+<!-- CTA Formulário → WhatsApp -->
+<script>
+(function () {
+  const telefoneInput = document.getElementById('cta-telefone');
+  if (telefoneInput) {
+    telefoneInput.addEventListener('input', function (e) {
+      let v = e.target.value.replace(/\D/g, '');
+      if (v.length > 11) v = v.slice(0, 11);
+      if (v.length > 6) {
+        v = '(' + v.slice(0, 2) + ') ' + v.slice(2, 7) + '-' + v.slice(7);
+      } else if (v.length > 2) {
+        v = '(' + v.slice(0, 2) + ') ' + v.slice(2);
+      }
+      e.target.value = v;
+    });
+  }
+
+  const formCta = document.getElementById('form-cta-whatsapp');
+  if (formCta) {
+    formCta.addEventListener('submit', function (e) {
+      e.preventDefault();
+      const nome = document.getElementById('cta-nome').value.trim();
+      const email = document.getElementById('cta-email').value.trim();
+      const telefone = document.getElementById('cta-telefone').value.trim();
+      const assunto = document.getElementById('cta-assunto').value.trim();
+      const mensagem = document.getElementById('cta-mensagem').value.trim();
+
+      let texto = 'Olá, me chamo ' + nome + ', vim através do site e gostaria de uma informação.\n\n';
+      texto += '- E-mail: ' + email + '\n';
+      texto += '- Telefone: ' + telefone + '\n';
+      texto += '- Assunto/Serviço: ' + assunto + '\n';
+      texto += '- Mensagem/Situação: ' + (mensagem || 'Não informado');
+
+      const url = 'https://wa.me/5528974007902?text=' + encodeURIComponent(texto);
+      window.open(url, '_blank');
+    });
+  }
+})();
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["Consultant", "ProfessionalService"],
+      "@id": "https://www.fernandoconsultoria.com.br/#negocio",
+      "name": "Fernando Consultoria Ambiental",
+      "alternateName": "Fernando Consultoria Ambiental | Licenciamento Ambiental, Monitoramento, CAR e Laudos Técnicos em Cachoeiro de Itapemirim ES",
+      "legalName": "Fernando Consultoria Ambiental",
+      "url": "https://www.fernandoconsultoria.com.br/",
+      "logo": "https://www.fernandoconsultoria.com.br/assets/images/fernando-consultoria-ambiental-logo-desktop.webp",
+      "image": [
+        "https://www.fernandoconsultoria.com.br/assets/images/fernando-consultoria-ambiental-cartao-servicos.webp",
+        "https://www.fernandoconsultoria.com.br/assets/images/fernando-netto-consultor-ambiental-foto-perfil.webp",
+        "https://www.fernandoconsultoria.com.br/assets/images/fachada-escritorio-fernando-consultoria-ambiental.webp"
+      ],
+      "description": "Licenciamento ambiental, monitoramento de ruído, recuperação de áreas degradadas, CAR e auditorias em Cachoeiro de Itapemirim e todo o Espírito Santo. CRQ ES 212.000.239.",
+      "telephone": "+55 28 97400-7902",
+      "email": "fernandocesarnetto@gmail.com",
+      "priceRange": "$$",
+      "currenciesAccepted": "BRL",
+      "foundingDate": "2021",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua Agliberto Rodrigues Moreira, 205 — Alto Amarelo",
+        "addressLocality": "Cachoeiro de Itapemirim",
+        "addressRegion": "ES",
+        "postalCode": "29304-370",
+        "addressCountry": "BR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -20.85899140,
+        "longitude": -41.11387500
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+          "opens": "09:00",
+          "closes": "22:00"
+        }
+      ],
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Cachoeiro de Itapemirim",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Espírito Santo"
+          }
+        },
+        { "@type": "Place", "name": "Alto Amarelo" },
+        { "@type": "Place", "name": "Bom Jesus" },
+        { "@type": "Place", "name": "Vila Rica" },
+        { "@type": "Place", "name": "Centro" },
+        { "@type": "Place", "name": "São Salvador" },
+        { "@type": "Place", "name": "Guaraná" }
+      ],
+      "founder": {
+        "@type": "Person",
+        "name": "Fernando César Ferreira Netto",
+        "jobTitle": "Consultor Ambiental e Técnico em Meio Ambiente",
+        "description": "Técnico em Meio Ambiente pelo IFES, graduado em Gestão Ambiental e Ciências Biológicas, com pós-graduação em Gestão Ambiental e Saneamento Ambiental. CRQ ES 212.000.239.",
+        "image": "https://www.fernandoconsultoria.com.br/assets/images/fernando-netto-consultor-ambiental-foto-perfil.webp",
+        "sameAs": [
+          "https://www.instagram.com/fernandocesarferreiranetto/",
+          "https://br.linkedin.com/in/fernando-cesar-ferreira-netto-058095103"
+        ]
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Serviços de Fernando Consultoria Ambiental",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Licenciamento Ambiental (LP, LI, LO)",
+              "description": "Conduzimos todo o processo de licenciamento ambiental para atividades e obras, com acompanhamento junto aos órgãos competentes.",
+              "areaServed": "Cachoeiro de Itapemirim — ES",
+              "provider": { "@id": "https://www.fernandoconsultoria.com.br/#negocio" }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Monitoramento Ambiental",
+              "description": "Monitoramos qualidade do ar, água e níveis sonoros, gerando laudos e relatórios técnicos para exigências legais.",
+              "areaServed": "Cachoeiro de Itapemirim — ES",
+              "provider": { "@id": "https://www.fernandoconsultoria.com.br/#negocio" }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "CAR e Regularização Fundiária",
+              "description": "Elaboração e acompanhamento do Cadastro Ambiental Rural, além de assessoria para regularização fundiária com foco ambiental.",
+              "areaServed": "Cachoeiro de Itapemirim — ES",
+              "provider": { "@id": "https://www.fernandoconsultoria.com.br/#negocio" }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Laudos e Estudos Técnicos",
+              "description": "Emissão de laudos técnicos (sonoro, movimentação de solo, hidrogeológico) e estudos ambientais (RIMA, EIA, RAP).",
+              "areaServed": "Cachoeiro de Itapemirim — ES",
+              "provider": { "@id": "https://www.fernandoconsultoria.com.br/#negocio" }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Recuperação de Áreas Degradadas e Reflorestamento",
+              "description": "Projetos de restauração ecológica, seleção de espécies nativas e acompanhamento técnico de reflorestamento.",
+              "areaServed": "Cachoeiro de Itapemirim — ES",
+              "provider": { "@id": "https://www.fernandoconsultoria.com.br/#negocio" }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Licenciamento para Indústrias e Cerâmicas",
+              "description": "Regularização ambiental completa para fábricas, olarias, tornearias, usinas de reciclagem e aterros sanitários.",
+              "areaServed": "Cachoeiro de Itapemirim — ES",
+              "provider": { "@id": "https://www.fernandoconsultoria.com.br/#negocio" }
+            }
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "reviewCount": "2",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "sameAs": [
+        "https://share.google/3CrPsmDE7nR6kGF2h",
+        "https://www.instagram.com/fernandocesarferreiranetto/",
+        "https://www.facebook.com/100075801142353/about/",
+        "https://br.linkedin.com/in/fernando-cesar-ferreira-netto-058095103"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.fernandoconsultoria.com.br/#website",
+      "url": "https://www.fernandoconsultoria.com.br/",
+      "name": "Fernando Consultoria Ambiental | Licenciamento Ambiental, Monitoramento, CAR e Laudos Técnicos em Cachoeiro de Itapemirim ES",
+      "publisher": { "@id": "https://www.fernandoconsultoria.com.br/#negocio" },
+      "inLanguage": "pt-BR"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.fernandoconsultoria.com.br/#webpage",
+      "url": "https://www.fernandoconsultoria.com.br/",
+      "name": "Consultoria Ambiental em Cachoeiro de Itapemirim ES | Fernando Consultoria Ambiental",
+      "description": "Licenciamento ambiental, monitoramento de ruído, recuperação de áreas degradadas, CAR e auditorias em Cachoeiro de Itapemirim e todo o Espírito Santo. CRQ ES 212.000.239.",
+      "isPartOf": { "@id": "https://www.fernandoconsultoria.com.br/#website" },
+      "about": { "@id": "https://www.fernandoconsultoria.com.br/#negocio" },
+      "inLanguage": "pt-BR",
+      "datePublished": "2021-01-01",
+      "dateModified": "2026-04-16"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.fernandoconsultoria.com.br/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto tempo demora um licenciamento ambiental?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende do porte da atividade e das exigências do órgão ambiental. Após o diagnóstico inicial gratuito, conseguimos estimar os prazos com precisão. Em média, licenças de atividades de baixo impacto podem ser obtidas em 30 a 90 dias."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vocês fazem o CAR (Cadastro Ambiental Rural)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim — elaboramos, registramos e fazemos o acompanhamento completo do CAR até a aprovação, incluindo diagnóstico, georreferenciamento e adequação ambiental da propriedade rural."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Atendem em todo o Espírito Santo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim, atendemos em todo o estado do Espírito Santo, com atendimento presencial e remoto conforme a necessidade do cliente. Informe sua cidade para confirmarmos a disponibilidade."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fazem medições e laudos de ruído?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim — realizamos monitoramento de níveis sonoros com equipamentos calibrados e emitimos laudos técnicos em conformidade com as normas ABNT vigentes, para indústrias, comércios, eventos e estabelecimentos em geral."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Minha oficina ou lava-jato precisa de licença ambiental?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. Oficinas mecânicas, lanternagem, lava-jatos e serviços similares são atividades com potencial de impacto ambiental e exigem licenciamento pelos órgãos competentes. Somos especialistas nesse segmento — entre em contato para um diagnóstico gratuito."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vocês também fazem projetos de fossa séptica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim — elaboramos projetos completos de fossa séptica e sistemas de tratamento de efluentes domésticos e industriais, incluindo laudos técnicos, recomendações de implantação e manutenção."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 </body>
 </html>

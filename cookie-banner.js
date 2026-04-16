@@ -16,7 +16,7 @@
         expiryDays: 365,                             // Dias até expirar o consentimento
         bannerDelay: 800,                            // ms antes de mostrar o banner
         showFloatingBtn: false,                      // Mostrar botão flutuante após fechar (Padrão AG5: link no rodapé)
-        privacyPolicyUrl: '#',                       // URL da política de privacidade (ajustar conforme necessário)
+        privacyPolicyUrl: 'politica-de-privacidade.html', // URL da política de privacidade
     };
 
     /* ============================================================
@@ -146,6 +146,7 @@
         hideBanner();
         closeModal();
         toast('Todos os cookies aceitos.');
+        updateFooterToggleIcon();
     }
 
     function rejectAll() {
@@ -155,6 +156,7 @@
         hideBanner();
         closeModal();
         toast('Apenas cookies necessários salvos.');
+        updateFooterToggleIcon();
     }
 
     function saveCustom() {
@@ -165,6 +167,7 @@
         hideBanner();
         closeModal();
         toast('Suas preferências foram salvas.');
+        updateFooterToggleIcon();
     }
 
     /* ============================================================
@@ -204,8 +207,29 @@
     }
 
     /* ============================================================
+       ATUALIZAR TOGGLE DO COOKIE NO RODAPÉ
+       ============================================================ */
+    function updateFooterToggleIcon() {
+        var toggle = document.getElementById('cookie-toggle');
+        if (!toggle) return;
+        var prefs = load();
+        if (prefs && prefs.decided) {
+            if (prefs.functional || prefs.analytics || prefs.performance || prefs.advertising) {
+                toggle.classList.remove('inactive');
+                toggle.classList.add('active');
+            } else {
+                toggle.classList.remove('active');
+                toggle.classList.add('inactive');
+            }
+        } else {
+            toggle.classList.add('active');
+        }
+    }
+
+    /* ============================================================
        EVENT LISTENERS
        ============================================================ */
+
     function on(id, event, handler) {
         var el = document.getElementById(id);
         if (el) el.addEventListener(event, handler);
@@ -252,6 +276,7 @@
             state = Object.assign({}, state, saved);
             dispatch(state);
             if (CONFIG.showFloatingBtn) showFloatingBtn();
+            updateFooterToggleIcon();
             return;
         }
 

@@ -316,36 +316,135 @@ header nav .navbar-toggler:focus { box-shadow: none; }
   font-size: 15px;
 }
 
-#OPS5 .conteudo {
-  padding: 20px;
-  box-shadow: 0 2px 5px rgba(0,0,0,.15);
-  border-radius: 10px;
-  height: 380px;
-  border: solid 2px #7CBC65;
+/* Cards Novos — Layout Premium */
+.srv-card-wrap {
+  padding: 8px;
+}
+
+.srv-card {
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.09);
+  border: 1px solid rgba(0,0,0,0.07);
   display: flex;
   flex-direction: column;
+  height: 100%;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  background: #fff;
+}
+
+.srv-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 16px 40px rgba(0,0,0,0.14);
+}
+
+/* Container do Ícone (Substituindo Imagem) */
+.srv-card-img {
+  position: relative;
+  height: 160px;
+  display: flex;
   align-items: center;
-  overflow: hidden;
+  justify-content: center;
+  background: linear-gradient(135deg, #f9fbf8 0%, #eef5e9 100%);
+  flex-shrink: 0;
+  border-bottom: 1px solid rgba(122,188,101,0.1);
+  transition: background 0.3s ease;
 }
 
-#OPS5 .conteudo img {
-  height: 100px;
-  object-fit: contain;
-  padding: 10px;
+.srv-card-img i.srv-icon {
+  font-size: 64px;
+  background: linear-gradient(135deg, #517A42 0%, #349E2B 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));
+  transition: transform 0.4s cubic-bezier(.175, .885, .32, 1.275);
 }
 
-#OPS5 .conteudo h3 {
-  font-size: 13px;
-  line-height: 1.5;
-  text-align: center;
+.srv-card:hover .srv-card-img {
+  background: linear-gradient(135deg, #eef5e9 0%, #e3ecd8 100%);
 }
 
-#OPS5 .conteudo h3 b {
+.srv-card:hover .srv-card-img i.srv-icon {
+  transform: scale(1.15) rotate(3deg);
+}
+
+/* Overlay sutil (opcional se não quiser degradê sobre o ícone) */
+.srv-card-overlay {
+  display: none;
+}
+
+/* Tag categoria */
+.srv-card-tag {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: rgba(122,188,101,0.88);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 9px;
+  border-radius: 20px;
+  letter-spacing: 0.3px;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  backdrop-filter: blur(4px);
+}
+
+/* Corpo do card */
+.srv-card-body {
+  padding: 18px 18px 16px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 8px;
+}
+
+.srv-card-body h3 {
+  font-size: 14px;
+  font-weight: 700;
+  color: #2a4a1e;
+  line-height: 1.4;
   font-family: 'titulo', sans-serif;
+  margin: 0;
+}
+
+.srv-card-body h3 span {
+  font-weight: 400;
+  font-size: 12px;
   color: #7CBC65;
   display: block;
-  margin-bottom: 6px;
 }
+
+.srv-card-body p {
+  font-size: 12.5px;
+  color: #666;
+  line-height: 1.55;
+  margin: 0;
+  flex: 1;
+}
+
+/* Botão whatsapp do card */
+.srv-card-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #7CBC65;
+  color: #fff !important;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 7px 14px;
+  border-radius: 7px;
+  text-decoration: none;
+  align-self: flex-start;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.srv-card-btn:hover {
+  background: #5ea34e;
+  transform: scale(1.03);
+}
+
 
 /* ============================================================
    QUEM SOU EU (#OPS7)
@@ -392,7 +491,95 @@ header nav .navbar-toggler:focus { box-shadow: none; }
 }
 @media (max-width: 991px) {
   #OPS8 h2 { text-align: center; }
-  #OPS8 img { height: auto; max-height: 350px; }
+}
+
+/* Card Visual — Segmentos Atendidos */
+.ops8-visual-card {
+  background: linear-gradient(145deg, #1e3a1a, #2d5a22);
+  border-radius: 16px;
+  padding: 28px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.2);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.ops8-card-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #A8E06A;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.ops8-card-header i {
+  font-size: 20px;
+}
+
+.ops8-card-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  flex: 1;
+}
+
+.ops8-card-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 8px;
+  padding: 10px 12px;
+  transition: background 0.2s ease;
+}
+
+.ops8-card-item:hover {
+  background: rgba(168,224,106,0.12);
+  border-color: rgba(168,224,106,0.25);
+}
+
+.ops8-card-item i {
+  font-size: 16px;
+  color: #A8E06A;
+  flex-shrink: 0;
+}
+
+.ops8-card-item span {
+  font-size: 12px;
+  color: rgba(255,255,255,0.85);
+  line-height: 1.3;
+  font-weight: 500;
+}
+
+.ops8-card-footer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 11px;
+  color: rgba(255,255,255,0.5);
+  padding-top: 16px;
+  border-top: 1px solid rgba(255,255,255,0.1);
+}
+
+.ops8-card-footer i {
+  color: #A8E06A;
+  font-size: 14px;
+}
+
+@media (max-width: 767px) {
+  .ops8-card-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .ops8-card-item span {
+    font-size: 11px;
+  }
 }
 
 /* ============================================================
@@ -662,20 +849,123 @@ footer {
 footer a { color: #fff; font-weight: 600; }
 
 /* ============================================================
-   WHATSAPP FLUTUANTE
+   FOOTER BOTTOM — Padrão AG5 Seção de Créditos
    ============================================================ */
-.whatsapp {
+.footer-bottom {
+  border-top: 1px solid rgba(255,255,255,0.1);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 6px;
+}
+
+/* Lado esquerdo */
+.footer-credits-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.footer-copyright {
+  font-size: 0.75rem;
+  color: rgba(255,255,255,0.5);
+}
+
+/* Links legais */
+.footer-legal-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0;
+  font-size: 11px;
+  color: rgba(255,255,255,0.4);
+}
+
+.footer-legal-links a {
+  font-size: 11px;
+  color: rgba(255,255,255,0.4);
+  font-weight: 400;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footer-legal-links a:hover {
+  color: #A2C175;
+}
+
+.footer-legal-sep {
+  margin: 0 10px;
+  opacity: 0.3;
+}
+
+/* Toggle cookie */
+#cookie-toggle.active #cookie-toggle-dot {
+  left: 15px !important;
+  background: #A2C175;
+}
+
+#cookie-toggle.inactive #cookie-toggle-dot {
+  left: 2px !important;
+  background: #888;
+}
+
+#ck-prefs-link:hover #cookie-toggle {
+  border-color: rgba(255,255,255,0.4) !important;
+}
+
+#ck-prefs-link:hover #cookie-toggle-dot {
+  box-shadow: 0 0 8px rgba(162,193,117,0.5) !important;
+}
+
+/* Lado direito — crédito agência */
+.footer-credits-right {
+  font-size: 0.75rem;
+  color: rgba(255,255,255,0.5);
+  white-space: nowrap;
+}
+
+.footer-agency-link {
+  color: #A2C175;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footer-agency-link:hover {
+  color: #c5e09a;
+}
+
+
+
+/* ============================================================
+   WHATSAPP FLUTUANTE (AG5 Standard)
+   ============================================================ */
+.btn-flutuante-whatsapp {
   position: fixed;
   bottom: 24px;
   right: 24px;
+  width: 60px;
+  height: 60px;
+  background-color: #25D366;
+  color: #FFF;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
   z-index: 9999;
+  transition: transform 0.3s ease;
 }
 
-.whatsapp img {
-  width: 56px;
-  height: 56px;
-  border-radius: 50%;
-  box-shadow: 0 4px 12px rgba(0,0,0,.3);
+.btn-flutuante-whatsapp:hover {
+  transform: scale(1.05);
+  color: #FFF;
 }
 
 /* ============================================================
