@@ -353,6 +353,16 @@
     #OPS4 .box { padding: 30px; }
     #OPS4 .box p { line-height: 1.7; font-size: 14px; text-align: center; }
 
+    /* Ajuste de altura e padding para cards de Missão/Visão/Valores */
+    #OPS3 .box {
+      padding: 30px 20px !important;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+    }
+    #OPS3 .box p { margin-bottom: 0; flex-grow: 1; }
+
     @media (max-width: 767px) {
       #OPS4 .sobre-img { height: 240px; margin-bottom: 24px; }
     }
@@ -840,21 +850,21 @@
       <div class="col-12 text-center mb-4">
         <h2 class="titulo">Nossa essência</h2>
       </div>
-      <div class="col-lg-4 col-sm-6 col-12 mb-4 mb-lg-0">
+      <div class="col-lg-4 col-sm-6 col-12 mb-4 mb-lg-0 d-flex">
         <div class="box">
           <i class="bi bi-bullseye mb-3 d-block" style="font-size:32px;color:#9FFD9C;"></i>
           <h2>Missão</h2>
           <p>Promover soluções técnicas e estratégicas que assegurem conformidade ambiental e desenvolvimento sustentável para nossos clientes.</p>
         </div>
       </div>
-      <div class="col-lg-4 col-sm-6 col-12 mb-4 mb-lg-0">
+      <div class="col-lg-4 col-sm-6 col-12 mb-4 mb-lg-0 d-flex">
         <div class="box">
           <i class="bi bi-eye mb-3 d-block" style="font-size:32px;color:#9FFD9C;"></i>
           <h2>Visão</h2>
           <p>Ser referência regional em consultoria ambiental integrada, reconhecida pela excelência técnica e compromisso com a sustentabilidade.</p>
         </div>
       </div>
-      <div class="col-lg-4 col-sm-6 col-12">
+      <div class="col-lg-4 col-sm-6 col-12 d-flex">
         <div class="box">
           <i class="bi bi-heart mb-3 d-block" style="font-size:32px;color:#9FFD9C;"></i>
           <h2>Valores</h2>
